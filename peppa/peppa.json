@@ -1,0 +1,1256 @@
+{
+   "desertisland" : {
+      "episode" : "28",
+      "orgtitle" : "Desert Island",
+      "series" : "4",
+      "title" : "Bezludna wyspa"
+   },
+   "lostkeys" : {
+      "episode" : "18",
+      "orgtitle" : "Lost Keys",
+      "series" : "4",
+      "title" : "Zgubione kluczyki"
+   },
+   "balloonride" : {
+      "title" : "Lot balonem",
+      "series" : "2",
+      "orgtitle" : "The Balloon Ride",
+      "episode" : "25"
+   },
+   "talentday" : {
+      "orgtitle" : "Talent Day",
+      "episode" : "20",
+      "series" : "3",
+      "title" : "Dzień talentu"
+   },
+   "schoolfete" : {
+      "series" : "1",
+      "title" : "Szkolny festyn",
+      "episode" : "20",
+      "orgtitle" : "The School Fete"
+   },
+   "mrpotatoschristmasshow" : {
+      "title" : "Świąteczne przedstawienie pana Ziemniaka",
+      "series" : "4",
+      "orgtitle" : "Mr Potato's Christmas Show",
+      "episode" : "25"
+   },
+   "mrfoxsvan" : {
+      "episode" : "43",
+      "orgtitle" : "Mr Fox's Van",
+      "series" : "3",
+      "title" : "Samochód Pana Lisa"
+   },
+   "mrfoxsshop" : {
+      "title" : "Sklep Pana Lisa",
+      "series" : "4",
+      "orgtitle" : "Mr Fox's Shop",
+      "episode" : "6"
+   },
+   "santasgrotto" : {
+      "title" : "Grota Świętego Mikołaja",
+      "series" : "3",
+      "orgtitle" : "Santa's Grotto",
+      "episode" : "51"
+   },
+   "schoolbustrip" : {
+      "series" : "2",
+      "title" : "Wycieczka szkolnym autobusem",
+      "episode" : "38",
+      "orgtitle" : "School Bus Trip"
+   },
+   "captaindaddydog" : {
+      "orgtitle" : "Captain Daddy Dog",
+      "episode" : "15",
+      "series" : "4",
+      "title" : "Kapitan Pies"
+   },
+   "daddypigsbirthday" : {
+      "title" : "Urodziny Tatusia Świnki",
+      "series" : "2",
+      "episode" : "50",
+      "orgtitle" : "Daddy Pig's Birthday"
+   },
+   "daddyputsuppicture" : {
+      "series" : "1",
+      "title" : "Tata zawiesza zdjęcie",
+      "episode" : "45",
+      "orgtitle" : "Daddy Puts Up a Picture"
+   },
+   "toycupboard" : {
+      "title" : "Szafka na zabawki",
+      "series" : "2",
+      "episode" : "44",
+      "orgtitle" : "The Toy Cupboard"
+   },
+   "bedtime" : {
+      "title" : "Pora spać",
+      "series" : "2",
+      "orgtitle" : "Bedtime",
+      "episode" : "14"
+   },
+   "childrensfete" : {
+      "orgtitle" : "The Children's Fete",
+      "episode" : "30",
+      "series" : "4",
+      "title" : "Festyn"
+   },
+   "sleepyprincess" : {
+      "orgtitle" : "Sleepy Princess",
+      "episode" : "36",
+      "title" : "Śpiąca królewna",
+      "series" : "1"
+   },
+   "gardengames" : {
+      "series" : "4",
+      "title" : "Zabawy w ogrodzie",
+      "episode" : "42",
+      "orgtitle" : "Garden Games"
+   },
+   "aquarium" : {
+      "title" : "Akwarium",
+      "series" : "4",
+      "episode" : "31",
+      "orgtitle" : "The Aquarium"
+   },
+   "mummypigatwork" : {
+      "orgtitle" : "Mummy Pig at Work",
+      "episode" : "7",
+      "series" : "1",
+      "title" : "Mama Świnka w pracy"
+   },
+   "petcompetition" : {
+      "orgtitle" : "The Pet Competition",
+      "episode" : "21",
+      "series" : "4",
+      "title" : "Konkurs ulubieńców"
+   },
+   "frogsandwormsandbutterflies" : {
+      "series" : "1",
+      "title" : "Żaby, robaki i motyle",
+      "episode" : "17",
+      "orgtitle" : "Frogs and Worms and Butterflies"
+   },
+   "kyliekangaroo" : {
+      "title" : "Kylie Kangur",
+      "series" : "4",
+      "orgtitle" : "Kylie Kangaroo",
+      "episode" : "14"
+   },
+   "bubbles" : {
+      "episode" : "1",
+      "orgtitle" : "Bubbles",
+      "title" : "Bąbelki",
+      "series" : "2"
+   },
+   "secretclub" : {
+      "series" : "3",
+      "title" : "Sekretny klub",
+      "orgtitle" : "The Secret Club",
+      "episode" : "38"
+   },
+   "missrabbitshelicopter" : {
+      "series" : "3",
+      "title" : "Helikopter Pani Królik",
+      "orgtitle" : "Miss Rabbit's Helicopter",
+      "episode" : "34"
+   },
+   "pretendfriend" : {
+      "episode" : "37",
+      "orgtitle" : "Pretend Friend",
+      "series" : "2",
+      "title" : "Niewidzialny przyjaciel"
+   },
+   "funfair" : {
+      "episode" : "24",
+      "orgtitle" : "Funfair",
+      "title" : "Wesołe miasteczko",
+      "series" : "3"
+   },
+   "numbers" : {
+      "title" : "Liczby",
+      "series" : "3",
+      "episode" : "25",
+      "orgtitle" : "Numbers"
+   },
+   "edmondelephantsbirthday" : {
+      "episode" : "49",
+      "orgtitle" : "Edmond Elephant's Birthday",
+      "title" : "Urodziny Edmunda Słonia",
+      "series" : "3"
+   },
+   "internationalday" : {
+      "orgtitle" : "International Day",
+      "episode" : "8",
+      "title" : "Wesoły dzień",
+      "series" : "4"
+   },
+   "naughtytortoise" : {
+      "series" : "4",
+      "title" : "Niegrzeczny żółw",
+      "orgtitle" : "Naughty Tortoise",
+      "episode" : "5"
+   },
+   "snowymountain" : {
+      "title" : "Śnieżna góra",
+      "series" : "4",
+      "episode" : "49",
+      "orgtitle" : "Snowy Mountain"
+   },
+   "secrets" : {
+      "orgtitle" : "Secrets",
+      "episode" : "13",
+      "series" : "1",
+      "title" : "Sekret"
+   },
+   "hiccups" : {
+      "episode" : "11",
+      "orgtitle" : "Hiccups",
+      "series" : "1",
+      "title" : "Czkawka"
+   },
+   "chatterbox" : {
+      "episode" : "42",
+      "orgtitle" : "Chatterbox",
+      "series" : "3",
+      "title" : "Gaduła"
+   },
+   "grandpaslittletrain" : {
+      "series" : "2",
+      "title" : "Mały pociąg Dziadka",
+      "episode" : "32",
+      "orgtitle" : "Grandpa's Little Train"
+   },
+   "playgroup" : {
+      "orgtitle" : "The Playgroup",
+      "episode" : "6",
+      "title" : "Przedszkole",
+      "series" : "1"
+   },
+   "thunderstorm" : {
+      "orgtitle" : "Thunderstorm",
+      "episode" : "32",
+      "title" : "Błyskawica",
+      "series" : "1"
+   },
+   "fishpond" : {
+      "orgtitle" : "The Fish Pond",
+      "episode" : "48",
+      "series" : "4",
+      "title" : "Fontanna życzeń"
+   },
+   "pottery" : {
+      "title" : "Garncarstwo",
+      "series" : "3",
+      "orgtitle" : "Pottery",
+      "episode" : "47"
+   },
+   "bedtimestory" : {
+      "series" : "4",
+      "title" : "Bajka na dobranoc",
+      "episode" : "17",
+      "orgtitle" : "Bedtime Story"
+   },
+   "grannyandgrandpasattic" : {
+      "episode" : "42",
+      "orgtitle" : "Granny and Grandpa's Attic",
+      "series" : "2",
+      "title" : "Strych Babci i Dziadka Świnki"
+   },
+   "pedrocowboy" : {
+      "episode" : "11",
+      "orgtitle" : "Pedro the Cowboy",
+      "title" : "Kowboj Pedro",
+      "series" : "4"
+   },
+   "queen" : {
+      "episode" : "27",
+      "orgtitle" : "The Queen",
+      "title" : "Królowa",
+      "series" : "4"
+   },
+   "santasvisit" : {
+      "title" : "Odwiedziny Mikołaja",
+      "series" : "3",
+      "orgtitle" : "Santa's Visit",
+      "episode" : "52"
+   },
+   "basketball" : {
+      "episode" : "3",
+      "orgtitle" : "Basketball",
+      "title" : "Koszykówka",
+      "series" : "4"
+   },
+   "georgesfriend" : {
+      "title" : "Przyjaciel George’a",
+      "series" : "2",
+      "episode" : "6",
+      "orgtitle" : "George’s Friend"
+   },
+   "grampyrabbitsdinosaurpark" : {
+      "episode" : "16",
+      "orgtitle" : "Grampy Rabbit's Dinosaur Park",
+      "series" : "4",
+      "title" : "Park dinozaurów Dziadka Królika"
+   },
+   "mrbullinchinashop" : {
+      "title" : "Pan Byk w sklepie z porcelaną",
+      "series" : "4",
+      "orgtitle" : "Mr Bull in a China Shop",
+      "episode" : "44"
+   },
+   "noisynight" : {
+      "orgtitle" : "The Noisy Night",
+      "episode" : "23",
+      "series" : "4",
+      "title" : "Hałaśliwa noc"
+   },
+   "madamegazellesleavingparty" : {
+      "title" : "Pożegnalne przyjęcie Madame Gazelle",
+      "series" : "4",
+      "episode" : "26",
+      "orgtitle" : "Madame Gazelle's Leaving Party"
+   },
+   "jumblesale" : {
+      "title" : "Wyprzedaż staroci",
+      "series" : "2",
+      "orgtitle" : "Jumble Sale",
+      "episode" : "19"
+   },
+   "pirateisland" : {
+      "series" : "2",
+      "title" : "Wyspa piratów",
+      "orgtitle" : "Pirate Island",
+      "episode" : "23"
+   },
+   "treasurehunt" : {
+      "series" : "1",
+      "title" : "Poszukiwacze skarbów",
+      "episode" : "24",
+      "orgtitle" : "Treasure Hunt"
+   },
+   "dens" : {
+      "title" : "Zamek",
+      "series" : "2",
+      "orgtitle" : "Dens",
+      "episode" : "36"
+   },
+   "potatocity" : {
+      "title" : "Ziemniaczane miasteczko",
+      "series" : "4",
+      "episode" : "1",
+      "orgtitle" : "Potato City"
+   },
+   "cycleride" : {
+      "title" : "Jazda na rowerze",
+      "series" : "2",
+      "episode" : "33",
+      "orgtitle" : "The Cycle Rid"
+   },
+   "chloesbigfriends" : {
+      "episode" : "44",
+      "orgtitle" : "Chloé's Big Friends",
+      "series" : "3",
+      "title" : "Duzi przyjaciele Chloe"
+   },
+   "georgesracingcar" : {
+      "episode" : "32",
+      "orgtitle" : "George’s Racing Car",
+      "series" : "4",
+      "title" : "Wyścigowy samochód Georga"
+   },
+   "georgecatchescold" : {
+      "series" : "2",
+      "title" : "George się przeziębił",
+      "episode" : "24",
+      "orgtitle" : "George Catches a Cold"
+   },
+   "rainydaygame" : {
+      "orgtitle" : "The Rainy Day Game",
+      "episode" : "9",
+      "title" : "Gra na deszczowy dzień",
+      "series" : "4"
+   },
+   "gymclass" : {
+      "series" : "3",
+      "title" : "Lekcja gimnastyki",
+      "orgtitle" : "Gym Class",
+      "episode" : "45"
+   },
+   "hideandseek" : {
+      "title" : "Zabawa w chowanego",
+      "series" : "1",
+      "episode" : "5",
+      "orgtitle" : "Hide and Seek"
+   },
+   "bouncyball" : {
+      "series" : "2",
+      "title" : "Skacząca piłeczka",
+      "episode" : "48",
+      "orgtitle" : "Bouncy Ball"
+   },
+   "oldendays" : {
+      "series" : "4",
+      "title" : "Dawno temu",
+      "episode" : "51",
+      "orgtitle" : "The Olden Days"
+   },
+   "workandplay" : {
+      "title" : "Praca i zabawa",
+      "series" : "3",
+      "orgtitle" : "Work and Play",
+      "episode" : "1"
+   },
+   "freddyfox" : {
+      "title" : "Lis Freddy",
+      "series" : "3",
+      "episode" : "27",
+      "orgtitle" : "Freddy Fox"
+   },
+   "funrun" : {
+      "orgtitle" : "Fun Run",
+      "episode" : "9",
+      "series" : "3",
+      "title" : "Bieg fundowany"
+   },
+   "mirrors" : {
+      "series" : "4",
+      "title" : "Lustra",
+      "episode" : "40",
+      "orgtitle" : "Mirrors"
+   },
+   "campingholiday" : {
+      "orgtitle" : "Camping Holiday",
+      "episode" : "6",
+      "title" : "Wakacje na kempingu",
+      "series" : "3"
+   },
+   "sandpit" : {
+      "title" : "Piaskownica",
+      "series" : "4",
+      "orgtitle" : "The Sandpit",
+      "episode" : "34"
+   },
+   "boatpond" : {
+      "title" : "Najlepsza łódka",
+      "series" : "2",
+      "episode" : "12",
+      "orgtitle" : "The Boat Pond"
+   },
+   "lunch" : {
+      "title" : "Podwieczorek",
+      "series" : "1",
+      "orgtitle" : "Lunch",
+      "episode" : "34"
+   },
+   "shake,rattleandbang" : {
+      "title" : "Potrząsanie, grzechotanie i uderzanie",
+      "series" : "3",
+      "episode" : "40",
+      "orgtitle" : "Shake, Rattle and Bang"
+   },
+   "pollysholiday" : {
+      "orgtitle" : "Polly's Holiday",
+      "episode" : "3",
+      "title" : "Wakacje Polly",
+      "series" : "2"
+   },
+   "flyingonholiday" : {
+      "series" : "4",
+      "title" : "Lecimy na wakacje",
+      "episode" : "36",
+      "orgtitle" : "Flying on Holiday"
+   },
+   "grandpaatplayground" : {
+      "orgtitle" : "Grandpa at the Playground",
+      "episode" : "22",
+      "title" : "Dziadek na placu zabaw",
+      "series" : "3"
+   },
+   "georgesballoon" : {
+      "orgtitle" : "George’s Balloon",
+      "episode" : "46",
+      "series" : "4",
+      "title" : "Balon Georga"
+   },
+   "shopping" : {
+      "episode" : "49",
+      "orgtitle" : "Shopping",
+      "title" : "Zakupy",
+      "series" : "1"
+   },
+   "spiderweb" : {
+      "episode" : "22",
+      "orgtitle" : "Spider Web",
+      "series" : "4",
+      "title" : "Pajęcza sieć"
+   },
+   "holidayinsun" : {
+      "title" : "Wakacje pełne słońca",
+      "series" : "4",
+      "episode" : "38",
+      "orgtitle" : "Holiday in the Sun"
+   },
+   "windycastle" : {
+      "title" : "Zamek Wichrów",
+      "series" : "1",
+      "episode" : "27",
+      "orgtitle" : "Windy Castle"
+   },
+   "foggyday" : {
+      "episode" : "18",
+      "orgtitle" : "Foggy Day",
+      "title" : "Mglisty dzień",
+      "series" : "2"
+   },
+   "flyingkite" : {
+      "series" : "1",
+      "title" : "Leć latawcu",
+      "orgtitle" : "Flying a Kite",
+      "episode" : "14"
+   },
+   "coldwinterday" : {
+      "series" : "2",
+      "title" : "Mroźny zimowy dzień",
+      "episode" : "52",
+      "orgtitle" : "Cold Winter Day"
+   },
+   "mycousinchloe" : {
+      "orgtitle" : "My Cousin Chloé",
+      "episode" : "28",
+      "series" : "1",
+      "title" : "Moja kuzynka Chloé"
+   },
+   "captaindaddypig" : {
+      "episode" : "46",
+      "orgtitle" : "Captain Daddy Pig",
+      "title" : "Kapitan Tatuś Świnka",
+      "series" : "2"
+   },
+   "holidayhouse" : {
+      "series" : "4",
+      "title" : "Pensjonat",
+      "orgtitle" : "The Holiday House",
+      "episode" : "37"
+   },
+   "treehouse" : {
+      "title" : "Domek na drzewie",
+      "series" : "1",
+      "orgtitle" : "The Tree House",
+      "episode" : "37"
+   },
+   "spring" : {
+      "series" : "3",
+      "title" : "Wiosna",
+      "episode" : "33",
+      "orgtitle" : "Spring"
+   },
+   "tinycreatures" : {
+      "orgtitle" : "Tiny Creatures",
+      "episode" : "21",
+      "title" : "Małe zwierzątka",
+      "series" : "2"
+   },
+   "notverywell" : {
+      "series" : "1",
+      "title" : "Nie za dobrze",
+      "orgtitle" : "Not Very Well",
+      "episode" : "25"
+   },
+   "timecapsule" : {
+      "title" : "Kapsuła czasu",
+      "series" : "2",
+      "orgtitle" : "The Time Capsule",
+      "episode" : "9"
+   },
+   "championdaddypig" : {
+      "orgtitle" : "Champion Daddy Pig",
+      "episode" : "41",
+      "series" : "3",
+      "title" : "Mistrz Tata Świnka"
+   },
+   "wishingwell" : {
+      "orgtitle" : "The Wishing Well",
+      "episode" : "24",
+      "title" : "Studnia marzeń",
+      "series" : "4"
+   },
+   "rebeccarabbit" : {
+      "series" : "2",
+      "title" : "Rebecca Królik",
+      "episode" : "39",
+      "orgtitle" : "Rebecca Rabbit"
+   },
+   "musicalinstruments" : {
+      "episode" : "16",
+      "orgtitle" : "Musical Instruments",
+      "series" : "1",
+      "title" : "Instrumenty muzyczne"
+   },
+   "piggyinmiddle" : {
+      "title" : "Świnka w środku",
+      "series" : "1",
+      "episode" : "8",
+      "orgtitle" : "Piggy in the Middle"
+   },
+   "museum" : {
+      "title" : "Muzeum",
+      "series" : "1",
+      "episode" : "39",
+      "orgtitle" : "The Museum"
+   },
+   "grandpapigstraintorescue" : {
+      "orgtitle" : "Grandpa Pig's Train to the Rescue",
+      "episode" : "20",
+      "title" : "Mały pociąg Dziadka Świnki",
+      "series" : "4"
+   },
+   "recycling" : {
+      "episode" : "11",
+      "orgtitle" : "Recycling",
+      "series" : "2",
+      "title" : "Segregowanie śmieci"
+   },
+   "rainbow" : {
+      "orgtitle" : "The Rainbow",
+      "episode" : "2",
+      "series" : "3",
+      "title" : "Tęcza"
+   },
+   "veryhotday" : {
+      "series" : "1",
+      "title" : "Upalny dzień",
+      "orgtitle" : "Very Hot Day",
+      "episode" : "40"
+   },
+   "sun,seaandsnow" : {
+      "series" : "3",
+      "title" : "Słońce, morze i śnieg",
+      "episode" : "30",
+      "orgtitle" : "Sun, Sea and Snow"
+   },
+   "horseytwinkletoes" : {
+      "title" : "Konik Złotogrzywy",
+      "series" : "4",
+      "episode" : "4",
+      "orgtitle" : "Horsey Twinkle Toes"
+   },
+   "pancakes" : {
+      "series" : "1",
+      "title" : "Naleśniki",
+      "orgtitle" : "Pancakes",
+      "episode" : "29"
+   },
+   "endofholiday" : {
+      "episode" : "39",
+      "orgtitle" : "The End of the Holiday",
+      "title" : "Koniec wakacji",
+      "series" : "4"
+   },
+   "dentist" : {
+      "title" : "Dentysta",
+      "series" : "2",
+      "orgtitle" : "The Dentist",
+      "episode" : "35"
+   },
+   "quarrel" : {
+      "episode" : "43",
+      "orgtitle" : "The Quarrel",
+      "series" : "2",
+      "title" : "Kłótnia"
+   },
+   "iceskating" : {
+      "orgtitle" : "Ice Skating",
+      "episode" : "34",
+      "series" : "2",
+      "title" : "Lodowisko"
+   },
+   "rockpools" : {
+      "episode" : "10",
+      "orgtitle" : "Rock Pools",
+      "title" : "Nad morzem",
+      "series" : "2"
+   },
+   "naturetrail" : {
+      "orgtitle" : "Nature Trail",
+      "episode" : "40",
+      "series" : "2",
+      "title" : "Wycieczka szlakiem natury"
+   },
+   "sleepover" : {
+      "title" : "Nocowanie",
+      "series" : "2",
+      "episode" : "51",
+      "orgtitle" : "Sleepover"
+   },
+   "sportsday" : {
+      "episode" : "15",
+      "orgtitle" : "Sports Day",
+      "title" : "Dzień sportu",
+      "series" : "2"
+   },
+   "bicycles" : {
+      "orgtitle" : "Bicycles",
+      "episode" : "12",
+      "title" : "Rowery",
+      "series" : "1"
+   },
+   "stars" : {
+      "episode" : "49",
+      "orgtitle" : "Stars",
+      "title" : "Gwiazdy",
+      "series" : "2"
+   },
+   "georgesbirthday" : {
+      "series" : "2",
+      "title" : "Urodziny George’a",
+      "episode" : "26",
+      "orgtitle" : "George’s Birthday"
+   },
+   "windyautumnday" : {
+      "title" : "Wietrzny, jesienny dzień",
+      "series" : "2",
+      "episode" : "8",
+      "orgtitle" : "Windy Autumn Day"
+   },
+   "atbeach" : {
+      "episode" : "46",
+      "orgtitle" : "At The Beach",
+      "title" : "Na plaży",
+      "series" : "1"
+   },
+   "zoezebrapostmansdaughter" : {
+      "orgtitle" : "Zoe Zebra the Postman's Daughter",
+      "episode" : "28",
+      "series" : "2",
+      "title" : "Zoe Zebra, córka listonosza"
+   },
+   "whistling" : {
+      "title" : "Gwizdanie",
+      "series" : "3",
+      "episode" : "28",
+      "orgtitle" : "Whistling"
+   },
+   "babypiggy" : {
+      "series" : "2",
+      "title" : "Mała Świnka",
+      "orgtitle" : "The Baby Piggy",
+      "episode" : "31"
+   },
+   "paperaeroplanes" : {
+      "episode" : "48",
+      "orgtitle" : "Paper Aeroplanes",
+      "series" : "3",
+      "title" : "Papierowe samoloty"
+   },
+   "babyalexander" : {
+      "episode" : "35",
+      "orgtitle" : "Baby Alexander",
+      "title" : "Mały Alexander",
+      "series" : "3"
+   },
+   "trafficjam" : {
+      "title" : "Korek",
+      "series" : "2",
+      "episode" : "13",
+      "orgtitle" : "Traffic Jam"
+   },
+   "washing" : {
+      "episode" : "10",
+      "orgtitle" : "Washing",
+      "title" : "Pranie",
+      "series" : "3"
+   },
+   "schoolplay" : {
+      "title" : "Szkolne przedstawienie",
+      "series" : "1",
+      "orgtitle" : "School Play",
+      "episode" : "52"
+   },
+   "shadows" : {
+      "title" : "Cienie",
+      "series" : "4",
+      "orgtitle" : "Shadows",
+      "episode" : "7"
+   },
+   "newshoes" : {
+      "episode" : "19",
+      "orgtitle" : "New Shoes",
+      "series" : "1",
+      "title" : "Nowe buty"
+   },
+   "mrpotatocomestotown" : {
+      "title" : "Pan Ziemniak przybywa do miasta",
+      "series" : "3",
+      "episode" : "17",
+      "orgtitle" : "Mr Potato Comes to Town"
+   },
+   "mysteries" : {
+      "title" : "Detektywi",
+      "series" : "2",
+      "orgtitle" : "Mysteries",
+      "episode" : "5"
+   },
+   "picnic" : {
+      "episode" : "15",
+      "orgtitle" : "Picnic",
+      "series" : "1",
+      "title" : "Piknik"
+   },
+   "balletlesson" : {
+      "series" : "1",
+      "title" : "Lekcja tańca",
+      "episode" : "31",
+      "orgtitle" : "Ballet Lesson"
+   },
+   "grandpapigsboat" : {
+      "orgtitle" : "Granda Pig's Boat",
+      "episode" : "48",
+      "series" : "1",
+      "title" : "Łódka Dziadka Świnki"
+   },
+   "snow" : {
+      "series" : "1",
+      "title" : "Śnieg",
+      "orgtitle" : "Snow",
+      "episode" : "26"
+   },
+   "mybirthdayparty" : {
+      "episode" : "50",
+      "orgtitle" : "My Birthday Party",
+      "title" : "Moje przyjęcie urodzinowe",
+      "series" : "1"
+   },
+   "fancydressparty" : {
+      "series" : "1",
+      "title" : "Bal przebierańców",
+      "episode" : "38",
+      "orgtitle" : "Fancy Dress Party"
+   },
+   "pedroislate" : {
+      "orgtitle" : "Pedro is Late",
+      "episode" : "41",
+      "title" : "Pedro się spóźnia",
+      "series" : "4"
+   },
+   "fireengine" : {
+      "series" : "3",
+      "title" : "Straż pożarna",
+      "orgtitle" : "The Fire Engine",
+      "episode" : "13"
+   },
+   "hospital" : {
+      "orgtitle" : "Hospital",
+      "episode" : "32",
+      "series" : "3",
+      "title" : "Szpital"
+   },
+   "compost" : {
+      "series" : "3",
+      "title" : "Kompost",
+      "episode" : "7",
+      "orgtitle" : "Compost"
+   },
+   "pollysboattrip" : {
+      "episode" : "11",
+      "orgtitle" : "Pollys Boat Trip",
+      "series" : "3",
+      "title" : "Polly i wyprawa łódką"
+   },
+   "cleaningcar" : {
+      "episode" : "33",
+      "orgtitle" : "Cleaning The Car",
+      "title" : "Mycie samochodu",
+      "series" : "1"
+   },
+   "delphinedonkey" : {
+      "title" : "Delfina Osiołek",
+      "series" : "3",
+      "orgtitle" : "Delphine Donkey",
+      "episode" : "12"
+   },
+   "doctorhamsterstortoise" : {
+      "title" : "Żółw doktora Chomika",
+      "series" : "3",
+      "orgtitle" : "Doctor Hamster's Tortoise",
+      "episode" : "29"
+   },
+   "perfume" : {
+      "title" : "Perfumy",
+      "series" : "4",
+      "orgtitle" : "Perfume",
+      "episode" : "29"
+   },
+   "biggestmuddypuddleinworld" : {
+      "episode" : "50",
+      "orgtitle" : "The Biggest Muddy Puddle in the World",
+      "series" : "3",
+      "title" : "Największa na świecie kałuża błota"
+   },
+   "pollyparrot" : {
+      "series" : "1",
+      "title" : "Papuga Polly",
+      "orgtitle" : "Polly Parrot",
+      "episode" : "4"
+   },
+   "playground" : {
+      "orgtitle" : "The Playground",
+      "episode" : "44",
+      "series" : "1",
+      "title" : "Plac zabaw"
+   },
+   "digginguproad" : {
+      "title" : "Roboty drogowe",
+      "series" : "3",
+      "orgtitle" : "Digging Up The Road",
+      "episode" : "26"
+   },
+   "georgesnewdinosaur" : {
+      "orgtitle" : "George’s New Dinosaur",
+      "episode" : "19",
+      "title" : "Nowy dinozaur Georga",
+      "series" : "4"
+   },
+   "daddypigsoffice" : {
+      "episode" : "22",
+      "orgtitle" : "Daddy Pig's Office",
+      "series" : "2",
+      "title" : "Biuro Taty Świnki"
+   },
+   "dannyspirateparty" : {
+      "title" : "Urodziny Danny\"ego",
+      "series" : "3",
+      "orgtitle" : "Danny's Pirate Party",
+      "episode" : "16"
+   },
+   "chloespuppetshow" : {
+      "orgtitle" : "Chloé's Puppet Show",
+      "episode" : "41",
+      "title" : "Kukiełki Chloé",
+      "series" : "1"
+   },
+   "painting" : {
+      "title" : "Malowanie",
+      "series" : "2",
+      "episode" : "29",
+      "orgtitle" : "Painting"
+   },
+   "daddysmoviecamera" : {
+      "episode" : "51",
+      "orgtitle" : "Daddy’s Movie Camera",
+      "series" : "1",
+      "title" : "Kamera filmowa Taty"
+   },
+   "powercut" : {
+      "series" : "2",
+      "title" : "Brak prądu",
+      "episode" : "47",
+      "orgtitle" : "The Powercut"
+   },
+   "toothfairy" : {
+      "orgtitle" : "The Tooth Fairy",
+      "episode" : "22",
+      "series" : "1",
+      "title" : "Zębowa wróżka"
+   },
+   "eyetest" : {
+      "series" : "2",
+      "title" : "Badanie wzroku",
+      "episode" : "16",
+      "orgtitle" : "The Eye Test"
+   },
+   "grandpapigscomputer" : {
+      "orgtitle" : "Grandpa Pig's Computer",
+      "episode" : "31",
+      "series" : "3",
+      "title" : "Komputer Dziadka Świnki"
+   },
+   "library" : {
+      "orgtitle" : "The Library",
+      "episode" : "4",
+      "title" : "Biblioteka",
+      "series" : "3"
+   },
+   "tidyingup" : {
+      "title" : "Porządki",
+      "series" : "1",
+      "orgtitle" : "Tidying Up",
+      "episode" : "43"
+   },
+   "campervan" : {
+      "series" : "3",
+      "title" : "Samochód kempingowy",
+      "episode" : "5",
+      "orgtitle" : "The Camper Van"
+   },
+   "schoolcamp" : {
+      "title" : "Szkolny obóz",
+      "series" : "2",
+      "orgtitle" : "School Camp",
+      "episode" : "45"
+   },
+   "nightanimals" : {
+      "episode" : "35",
+      "orgtitle" : "Night Animals",
+      "series" : "4",
+      "title" : "Nocne zwierzęta"
+   },
+   "princesspeppa" : {
+      "orgtitle" : "Princess Peppa",
+      "episode" : "14",
+      "series" : "3",
+      "title" : "Księżniczka Peppa"
+   },
+   "peppaandgeorgesgarden" : {
+      "series" : "4",
+      "title" : "Ogród Peppy i Georga",
+      "orgtitle" : "Peppa and George’s Garden",
+      "episode" : "12"
+   },
+   "grannypigschickens" : {
+      "orgtitle" : "Granny Pig's Chickens",
+      "episode" : "19",
+      "title" : "Kurczęta Babci Świnki",
+      "series" : "3"
+   },
+   "newcar" : {
+      "series" : "1",
+      "title" : "Nowy samochód",
+      "orgtitle" : "The New Car",
+      "episode" : "23"
+   },
+   "mummyrabbitsbump" : {
+      "title" : "Dzieci Mamy Królik",
+      "series" : "4",
+      "orgtitle" : "Mummy Rabbit's Bump",
+      "episode" : "10"
+   },
+   "mrdinosaurislost" : {
+      "episode" : "2",
+      "orgtitle" : "Mr. Dinosaur is Lost",
+      "series" : "1",
+      "title" : "Zgubiony pan dinozaur"
+   },
+   "emilyelephant" : {
+      "series" : "2",
+      "title" : "Emily Słoń",
+      "episode" : "2",
+      "orgtitle" : "Emily Elephant"
+   },
+   "misterskinnylegs" : {
+      "orgtitle" : "Mister Skinnylegs",
+      "episode" : "47",
+      "series" : "1",
+      "title" : "Pan Kościste Nóżki"
+   },
+   "camping" : {
+      "title" : "Kemping",
+      "series" : "1",
+      "orgtitle" : "Camping",
+      "episode" : "35"
+   },
+   "newhouse" : {
+      "series" : "4",
+      "title" : "Nowy dom",
+      "orgtitle" : "The New House",
+      "episode" : "2"
+   },
+   "daddyloseshisglasses" : {
+      "orgtitle" : "Daddy Loses his Glasses",
+      "episode" : "9",
+      "title" : "Zagubione okulary Taty",
+      "series" : "1"
+   },
+   "grampyrabbitinspace" : {
+      "title" : "Dziadek Królik w kosmosie",
+      "series" : "4",
+      "episode" : "50",
+      "orgtitle" : "Grampy Rabbit in Space"
+   },
+   "peppascircus" : {
+      "title" : "Cyrk Peppy",
+      "series" : "4",
+      "orgtitle" : "Peppa's Circus",
+      "episode" : "47"
+   },
+   "babysitting" : {
+      "series" : "1",
+      "title" : "Niania",
+      "orgtitle" : "Babysitting",
+      "episode" : "30"
+   },
+   "peppaschristmas" : {
+      "series" : "2",
+      "title" : "Święta u Peppy",
+      "orgtitle" : "Peppa's Christmas",
+      "episode" : "53"
+   },
+   "blackberrybush" : {
+      "title" : "Krzew jeżynowy",
+      "series" : "3",
+      "episode" : "46",
+      "orgtitle" : "The Blackberry Bush"
+   },
+   "longgrass" : {
+      "series" : "2",
+      "title" : "Wysoka trawa",
+      "episode" : "27",
+      "orgtitle" : "The Long Grass"
+   },
+   "littleboat" : {
+      "series" : "4",
+      "title" : "Mała łódka",
+      "orgtitle" : "The Little Boat",
+      "episode" : "33"
+   },
+   "fruit" : {
+      "series" : "4",
+      "title" : "Owoce",
+      "episode" : "45",
+      "orgtitle" : "Fruit"
+   },
+   "swimming" : {
+      "orgtitle" : "Swimming",
+      "episode" : "20",
+      "title" : "Pływanie",
+      "series" : "2"
+   },
+   "muddypuddles" : {
+      "series" : "1",
+      "title" : "Zabawy w błocie",
+      "orgtitle" : "Muddy Puddles",
+      "episode" : "1"
+   },
+   "triptomoon" : {
+      "episode" : "21",
+      "orgtitle" : "A Trip to the Moon",
+      "series" : "3",
+      "title" : "Podróż na Księżyc"
+   },
+   "grampyrabbitsboatyard" : {
+      "series" : "3",
+      "title" : "Przystań Dziadka Królika",
+      "orgtitle" : "Grampy Rabbit's Boatyard",
+      "episode" : "39"
+   },
+   "goingboating" : {
+      "series" : "4",
+      "title" : "Na jeziorze",
+      "episode" : "43",
+      "orgtitle" : "Going Boating"
+   },
+   "missrabbitsdayoff" : {
+      "series" : "3",
+      "title" : "Dzień wolny Pani Królik",
+      "orgtitle" : "Miss Rabbit's Day Off",
+      "episode" : "37"
+   },
+   "gardening" : {
+      "orgtitle" : "Gardening",
+      "episode" : "10",
+      "title" : "Ogrodnictwo",
+      "series" : "1"
+   },
+   "daddygetsfit" : {
+      "series" : "1",
+      "title" : "Tata łapie formę",
+      "orgtitle" : "Daddy Gets Fit",
+      "episode" : "42"
+   },
+   "dressingup" : {
+      "series" : "1",
+      "title" : "Przebieranki",
+      "orgtitle" : "Dressing Up",
+      "episode" : "18"
+   },
+   "goldiefish" : {
+      "title" : "Złota rybka",
+      "series" : "3",
+      "orgtitle" : "Goldie the Fish",
+      "episode" : "23"
+   },
+   "lighthouse" : {
+      "episode" : "36",
+      "orgtitle" : "Grampy Rabbit's Lighthouse",
+      "series" : "3",
+      "title" : "Latarnia Dziadka Królika"
+   },
+   "flyingvet" : {
+      "orgtitle" : "The Flying Vet",
+      "episode" : "13",
+      "title" : "Latający weterynarz",
+      "series" : "4"
+   },
+   "pedroscough" : {
+      "orgtitle" : "Pedro's Cough",
+      "episode" : "3",
+      "series" : "3",
+      "title" : "Kaszel Pedra"
+   },
+   "richardrabbitcomestoplay" : {
+      "orgtitle" : "Richard Rabbit Comes to Play",
+      "episode" : "8",
+      "series" : "3",
+      "title" : "Richard Królik przychodzi się pobawić"
+   },
+   "cuckooclock" : {
+      "orgtitle" : "Cuckoo Clock",
+      "episode" : "30",
+      "title" : "Zegar z kukułką",
+      "series" : "2"
+   },
+   "granddaddogsgarage" : {
+      "series" : "2",
+      "title" : "Warsztat dziadka psa",
+      "episode" : "17",
+      "orgtitle" : "Granddad Dog's Garage"
+   },
+   "trainride" : {
+      "series" : "3",
+      "title" : "Podróż pociągiem",
+      "orgtitle" : "The Train Ride",
+      "episode" : "18"
+   },
+   "penpal" : {
+      "title" : "Listowy przyjaciel",
+      "series" : "2",
+      "orgtitle" : "Pen Pal",
+      "episode" : "41"
+   },
+   "mrscarecrow" : {
+      "series" : "2",
+      "title" : "Strach na wróble",
+      "episode" : "7",
+      "orgtitle" : "Mr Scarecrow"
+   },
+   "mummypigsbirthday" : {
+      "series" : "1",
+      "title" : "Urodziny Mamy Świnki",
+      "orgtitle" : "Mummy Pig's Birthday",
+      "episode" : "21"
+   },
+   "teddysdayout" : {
+      "orgtitle" : "Teddy's Day Out",
+      "episode" : "4",
+      "title" : "Wychodne Teddy`ego",
+      "series" : "2"
+   },
+   "teddyplaygroup" : {
+      "series" : "3",
+      "title" : "Miś Teddy",
+      "orgtitle" : "Teddy Playgroup",
+      "episode" : "15"
+   },
+   "piratetreasure" : {
+      "title" : "Skarb piratów",
+      "series" : "4",
+      "orgtitle" : "Pirate Treasure",
+      "episode" : "52"
+   },
+   "bestfriend" : {
+      "orgtitle" : "Best Friend",
+      "episode" : "3",
+      "series" : "1",
+      "title" : "Najlepsi przyjaciele"
+   }
+}
