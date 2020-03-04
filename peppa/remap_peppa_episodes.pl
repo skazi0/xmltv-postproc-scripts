@@ -4,12 +4,14 @@ use strict;
 use JSON;
 use Data::Dumper;
 use XML::Twig;
+use File::Basename;
 use utf8;
 
 binmode STDOUT, ":utf8";
 binmode STDIN, ":utf8";
 
-open (IN, "<peppa.json");
+my $script_dir = dirname(__FILE__);
+open (IN, "<$script_dir/peppa.json");
 local $/ = undef;
 my $json = <IN>;
 my $mapping = JSON->new->utf8->decode($json);
