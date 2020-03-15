@@ -870,9 +870,15 @@
       "episode" : "12"
    },
    "doctorhamsterstortoise" : {
-      "title" : "Żółw doktora Chomika",
+      "title" : "Żółw pani doktor Chomik",
       "series" : "3",
       "orgtitle" : "Doctor Hamster's Tortoise",
+      "episode" : "29"
+   },
+   "drhamsterstortoise" : {
+      "title" : "Żółw pani doktor Chomik",
+      "series" : "3",
+      "orgtitle" : "Dr Hamster's Tortoise",
       "episode" : "29"
    },
    "perfume" : {

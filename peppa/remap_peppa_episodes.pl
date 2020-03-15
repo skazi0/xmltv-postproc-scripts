@@ -28,6 +28,7 @@ $twig->parsefile($ARGV[0]);
 sub hashtitle {
     my $title = shift;
     $title = lc($title);
+    $title =~ s/.*:\s*//; # strip series title
     $title =~ s/( |^)(a|the)( |$)//g;
     $title =~ s/[\.\s'’]//g;
     # some pl/en wiki mismatches
@@ -53,13 +54,14 @@ sub process_programme {
   #</programme>
     my ($t, $prog) = @_;
     my $orgtitle = $prog->first_child('title[@lang="en"]');
+    my $title = $prog->first_child('title[@lang="pl"]');
     # scan mapping only if generic pattern matches
-    if ($orgtitle and $orgtitle->text =~ /Peppa Pig/) {
+    if ($orgtitle and $orgtitle->text =~ /Peppa Pig/ or
+        $title and $title->text =~ /Świnka Peppa/) {
         my $hash = hashtitle($orgtitle->text);
         for my $key (@mappingkeys) {
             if ($hash =~ $key) {
                 # modify polish title
-                my $title = $prog->first_child('title[@lang="pl"]');
                 my $epdata = $mapping->{$key};
                 my $ser = $epdata->{'series'} != '1' ? " $epdata->{'series'}" : "";
                 $title->set_text("Świnka Peppa$ser: $epdata->{'title'} - odc. $epdata->{'episode'}");
