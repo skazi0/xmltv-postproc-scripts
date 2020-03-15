@@ -443,8 +443,8 @@
       "orgtitle" : "Lunch",
       "episode" : "34"
    },
-   "shake,rattleandbang" : {
-      "title" : "Potrząsanie, grzechotanie i uderzanie",
+   "shakerattleandbang" : {
+      "title" : "Orkiestra Ram Pam Pam",
       "series" : "3",
       "episode" : "40",
       "orgtitle" : "Shake, Rattle and Bang"
@@ -623,7 +623,7 @@
       "orgtitle" : "Very Hot Day",
       "episode" : "40"
    },
-   "sun,seaandsnow" : {
+   "sunseaandsnow" : {
       "series" : "3",
       "title" : "Słońce, morze i śnieg",
       "episode" : "30",

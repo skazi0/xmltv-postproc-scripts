@@ -29,8 +29,9 @@ sub hashtitle {
     my $title = shift;
     $title = lc($title);
     $title =~ s/.*:\s*//; # strip series title
+    $title =~ s/&/and/;
     $title =~ s/( |^)(a|the)( |$)//g;
-    $title =~ s/[\.\s'’]//g;
+    $title =~ s/[\.\s'’,]//g;
     # some pl/en wiki mismatches
     $title =~ s/ë/e/;
     $title =~ s/é/e/;
