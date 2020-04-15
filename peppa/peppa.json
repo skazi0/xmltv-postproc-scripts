@@ -479,6 +479,12 @@
       "series" : "4",
       "title" : "Balon Georga"
    },
+   "georgesballon" : {
+      "orgtitle" : "George’s Balloon",
+      "episode" : "46",
+      "series" : "4",
+      "title" : "Balon Georga"
+   },
    "shopping" : {
       "episode" : "49",
       "orgtitle" : "Shopping",
@@ -1264,5 +1270,11 @@
       "episode" : "3",
       "series" : "1",
       "title" : "Najlepsi przyjaciele"
+   },
+   "easterbunny" : {
+      "orgtitle" : "Easter Bunny",
+      "episode" : "8",
+      "series" : "5",
+      "title" : "Króliczek Wielkanocny"
    }
 }
