@@ -47,6 +47,12 @@
       "orgtitle" : "Mr Fox's Shop",
       "episode" : "6"
    },
+   "mrfoxshop" : {
+      "title" : "Sklep Pana Lisa",
+      "series" : "4",
+      "orgtitle" : "Mr Fox Shop",
+      "episode" : "6"
+   },
    "santasgrotto" : {
       "title" : "Grota Świętego Mikołaja",
       "series" : "3",
@@ -646,6 +652,12 @@
       "series" : "4",
       "episode" : "4",
       "orgtitle" : "Horsey Twinkle Toes"
+   },
+   "dorseytwinkletoes" : {
+      "title" : "Konik Złotogrzywy",
+      "series" : "4",
+      "episode" : "4",
+      "orgtitle" : "Dorsey Twinkle Toes"
    },
    "pancakes" : {
       "series" : "1",
