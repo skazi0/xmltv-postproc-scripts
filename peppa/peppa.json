@@ -209,6 +209,12 @@
       "episode" : "49",
       "orgtitle" : "Snowy Mountain"
    },
+   "snowmountain" : {
+      "title" : "Śnieżna góra",
+      "series" : "4",
+      "episode" : "49",
+      "orgtitle" : "Snow Mountain"
+   },
    "secrets" : {
       "orgtitle" : "Secrets",
       "episode" : "13",
