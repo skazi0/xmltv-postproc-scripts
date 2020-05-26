@@ -1289,6 +1289,24 @@
       "series" : "1",
       "title" : "Najlepsi przyjaciele"
    },
+   "castle" : {
+      "orgtitle" : "The Castle",
+      "episode" : "2",
+      "series" : "5",
+      "title" : "Zamek"
+   },
+   "parachutejump" : {
+      "orgtitle" : "Parachute Jump",
+      "episode" : "7",
+      "series" : "5",
+      "title" : "Skok ze spadochronem"
+   },
+   "geraldgiraffe" : {
+      "orgtitle" : "Gerald Giraffe",
+      "episode" : "6",
+      "series" : "5",
+      "title" : "Żyrafa Gerald"
+   },
    "easterbunny" : {
       "orgtitle" : "Easter Bunny",
       "episode" : "8",
