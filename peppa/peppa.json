@@ -1307,6 +1307,18 @@
       "series" : "5",
       "title" : "Żyrafa Gerald"
    },
+   "missrabbitstaxi" : {
+      "orgtitle" : "Miss Rabbit's Taxi",
+      "episode" : "3",
+      "series" : "5",
+      "title" : "Taksówka Pani Królik"
+   },
+   "playingpretend" : {
+      "orgtitle" : "Playing Pretend",
+      "episode" : "1",
+      "series" : "5",
+      "title" : "Zabawa na niby"
+   },
    "easterbunny" : {
       "orgtitle" : "Easter Bunny",
       "episode" : "8",
