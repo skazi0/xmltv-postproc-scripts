@@ -1319,6 +1319,18 @@
       "series" : "5",
       "title" : "Zabawa na niby"
    },
+   "scooters" : {
+      "orgtitle" : "Scooters",
+      "episode" : "4",
+      "series" : "5",
+      "title" : "Hulajnogi"
+   },
+   "pumpkincompetition" : {
+      "orgtitle" : "Pumpkin Competition",
+      "episode" : "5",
+      "series" : "5",
+      "title" : "Pumpkin Competition"
+   },
    "easterbunny" : {
       "orgtitle" : "Easter Bunny",
       "episode" : "8",
