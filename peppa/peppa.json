@@ -1329,7 +1329,49 @@
       "orgtitle" : "Pumpkin Competition",
       "episode" : "5",
       "series" : "5",
-      "title" : "Pumpkin Competition"
+      "title" : "Dyniowy konkurs"
+   },
+   "movetomusic" : {
+      "orgtitle" : "Move to Music",
+      "episode" : "14",
+      "series" : "5",
+      "title" : "Muzyczne obrazy"
+   },
+   "london" : {
+      "orgtitle" : "London",
+      "episode" : "15",
+      "series" : "5",
+      "title" : "Londyn"
+   },
+   "simplescience" : {
+      "orgtitle" : "Simple Science",
+      "episode" : "9",
+      "series" : "5",
+      "title" : "Prosta nauka"
+   },
+   "diggerworld" : {
+      "orgtitle" : "Digger World",
+      "episode" : "25",
+      "series" : "5",
+      "title" : "Miasteczko koparek"
+   },
+   "schoolproject" : {
+      "orgtitle" : "School Project",
+      "episode" : "10",
+      "series" : "5",
+      "title" : "Praca domowa"
+   },
+   "police" : {
+      "orgtitle" : "The Police",
+      "episode" : "16",
+      "series" : "5",
+      "title" : "Policja"
+   },
+   "mummypigsbook" : {
+      "orgtitle" : "Mummy Pig's Book",
+      "episode" : "11",
+      "series" : "5",
+      "title" : "Książka Mamy Świnki"
    },
    "easterbunny" : {
       "orgtitle" : "Easter Bunny",
