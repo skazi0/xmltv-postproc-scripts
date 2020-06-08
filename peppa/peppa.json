@@ -1379,6 +1379,18 @@
       "series" : "5",
       "title" : "Książka Mamy Świnki"
    },
+   "zoo" : {
+      "orgtitle" : "The Zoo",
+      "episode" : "17",
+      "series" : "5",
+      "title" : "Zoo"
+   },
+   "outback" : {
+      "orgtitle" : "The Outback",
+      "episode" : "19",
+      "series" : "5",
+      "title" : "Piknik w Australii"
+   },
    "easterbunny" : {
       "orgtitle" : "Easter Bunny",
       "episode" : "8",
