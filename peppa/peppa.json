@@ -1397,8 +1397,8 @@
       "series" : "5",
       "title" : "Serfowanie"
    },
-   "greatbarrierreef" : {
-      "orgtitle" : "The Great Barrier Reef",
+   "barrierreef" : {
+      "orgtitle" : "The Barrier Reef",
       "episode" : "21",
       "series" : "5",
       "title" : "Wielka Rafa Koralowa"
@@ -1408,6 +1408,12 @@
       "episode" : "23",
       "series" : "5",
       "title" : "Rymowanki"
+   },
+   "boomerang" : {
+      "orgtitle" : "Boomerang",
+      "episode" : "22",
+      "series" : "5",
+      "title" : "Bumerang"
    },
    "easterbunny" : {
       "orgtitle" : "Easter Bunny",
