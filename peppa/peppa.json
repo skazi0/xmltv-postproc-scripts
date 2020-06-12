@@ -1391,6 +1391,24 @@
       "series" : "5",
       "title" : "Piknik w Australii"
    },
+   "surfing" : {
+      "orgtitle" : "Surfing",
+      "episode" : "20",
+      "series" : "5",
+      "title" : "Serfowanie"
+   },
+   "greatbarrierreef" : {
+      "orgtitle" : "The Great Barrier Reef",
+      "episode" : "21",
+      "series" : "5",
+      "title" : "Wielka Rafa Koralowa"
+   },
+   "nurseryrhymes" : {
+      "orgtitle" : "Nursery Rhymes",
+      "episode" : "23",
+      "series" : "5",
+      "title" : "Rymowanki"
+   },
    "easterbunny" : {
       "orgtitle" : "Easter Bunny",
       "episode" : "8",
