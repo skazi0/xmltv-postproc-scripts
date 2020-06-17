@@ -1385,6 +1385,12 @@
       "series" : "5",
       "title" : "Zoo"
    },
+   "canalboat" : {
+      "orgtitle" : "Canal Boat",
+      "episode" : "18",
+      "series" : "5",
+      "title" : "Rejs po kanale"
+   },
    "outback" : {
       "orgtitle" : "The Outback",
       "episode" : "19",
@@ -1417,7 +1423,7 @@
    },
    "wendywolfsbirthday" : {
       "orgtitle" : "Wendy Wolf's Birthday",
-      "episode" : "23",
+      "episode" : "27",
       "series" : "5",
       "title" : "Urodziny Wendy Wilk"
    },
