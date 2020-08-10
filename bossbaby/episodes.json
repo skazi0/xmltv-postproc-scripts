@@ -1,0 +1,132 @@
+{
+   "monstermachine" : {
+      "orgtitle" : "Monster Machine",
+      "episode" : 5,
+      "title" : "Zgubny zapał"
+   },
+   "plushythingy" : {
+      "orgtitle" : "Plushythingy",
+      "episode" : 21,
+      "title" : "Pluszowecośtam"
+   },
+   "asdiaperchanges" : {
+      "orgtitle" : "As the Diaper Changes",
+      "episode" : 14,
+      "title" : "Nowa pielucha, nowe porządki"
+   },
+   "fugitivesdayout" : {
+      "title" : "Dzień zbiega",
+      "episode" : 19,
+      "orgtitle" : "Fugitive’s Day Out"
+   },
+   "pu" : {
+      "episode" : 16,
+      "orgtitle" : "P.U.",
+      "title" : "Fu!"
+   },
+   "scooterbuskie" : {
+      "episode" : 1,
+      "orgtitle" : "Scooter Buskie",
+      "title" : "Scooter Busko"
+   },
+   "constipationsituation" : {
+      "title" : "Utrapienie z zatwardzeniem",
+      "episode" : 6,
+      "orgtitle" : "The Constipation Situation"
+   },
+   "spiritday" : {
+      "title" : "Święto firmy",
+      "orgtitle" : "Spirit Day",
+      "episode" : 9
+   },
+   "pictureperfect" : {
+      "episode" : 23,
+      "orgtitle" : "Picture Perfect",
+      "title" : "Zdjęcie doskonałe"
+   },
+   "supercoolbigkidsinc" : {
+      "title" : "Super Fajne Duże Dzieci i S-ka",
+      "episode" : 15,
+      "orgtitle" : "Super Cool Big Kids, Inc."
+   },
+   "nightoffrodarg" : {
+      "title" : "Noc Żabdarga",
+      "episode" : 18,
+      "orgtitle" : "Night of the Frodarg"
+   },
+   "formulaformenacedekkermoonbootsmystery" : {
+      "title" : "Niebezpieczna mieszanka. Zagadka Dekkera Księżycobutego",
+      "orgtitle" : "Formula for Menace: A Dekker Moonboots Mystery",
+      "episode" : 4
+   },
+   "hangintherebaby" : {
+      "title" : "Trzymaj się, bobasie",
+      "episode" : 12,
+      "orgtitle" : "Hang in There, Baby"
+   },
+   "catsincradle" : {
+      "title" : "Kot w kołysce",
+      "episode" : 2,
+      "orgtitle" : "Cat’s in the Cradle"
+   },
+   "intobellyofdenofhouseofnestofcats" : {
+      "title" : "W przepastnej otchłani trzewi siedliska kotów",
+      "orgtitle" : "Into the Belly of the Den of the House of the Nest of Cats",
+      "episode" : 8
+   },
+   "hushlittlebaby" : {
+      "title" : "Sza, dziecinko",
+      "orgtitle" : "Hush, Little Baby",
+      "episode" : 17
+   },
+   "playitagaintim" : {
+      "episode" : 24,
+      "orgtitle" : "Play It Again, Tim",
+      "title" : "Zagraj to jeszcze raz, Tim"
+   },
+   "familyfunnight" : {
+      "episode" : 3,
+      "orgtitle" : "Family Fun Night",
+      "title" : "Wieczór rodzinnej rozrywki"
+   },
+   "wrinklesstinkles" : {
+      "title" : "Pomarszczeni i odwonieni",
+      "episode" : 26,
+      "orgtitle" : "Wrinkles & Stinkles"
+   },
+   "researchdevelopment" : {
+      "orgtitle" : "Research & Development",
+      "episode" : 25,
+      "title" : "Dział Badań i Rozwoju"
+   },
+   "bossbabysitter" : {
+      "title" : "Pod dobrą opieką",
+      "episode" : 7,
+      "orgtitle" : "The Boss Babysitter"
+   },
+   "elapasionadonegociodelaniñera" : {
+      "title" : "Biznes się kręci",
+      "orgtitle" : "El Apasionado Negocio de la Niñera",
+      "episode" : 20
+   },
+   "paravion" : {
+      "episode" : 10,
+      "orgtitle" : "Par Avion",
+      "title" : "Par avion"
+   },
+   "numberoneproblem" : {
+      "title" : "Pieluchowy problem",
+      "episode" : 22,
+      "orgtitle" : "Number One Problem"
+   },
+   "sixwellplacedkittens" : {
+      "title" : "Sześć kiciusiów na dobrych pozycjach",
+      "episode" : 13,
+      "orgtitle" : "Six Well-Placed Kittens"
+   },
+   "catcop" : {
+      "title" : "Kotka Glina!",
+      "orgtitle" : "Cat Cop!",
+      "episode" : 11
+   }
+}
