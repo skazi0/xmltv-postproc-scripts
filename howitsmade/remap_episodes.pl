@@ -55,7 +55,7 @@ sub process_programme {
             if ($orgtitle->text =~ /:\s*$title_a,/i) {
                 # modify episode title and number
                 my $epdata = $mapping->{$key};
-#                $title->set_text("Jak to jest zrobione?: $epdata->{'title_a'}, $epdata->{'title_b'}, $epdata->{'title_c'}, $epdata->{'title_d'}");
+                $title->set_text("Jak to jest zrobione? - odc. $epdata->{'episode'}");
                 $prog->first_child('episode-num')->set_text($epdata->{'episode'});
                 last;
             }
