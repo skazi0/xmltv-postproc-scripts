@@ -1,0 +1,1778 @@
+{
+   "mountainbiketires" : {
+      "title_b" : "Leaf and Debris Vacuums",
+      "series_episode" : "31-05",
+      "title_c" : "Canned meat",
+      "title_a" : "Mountain Bike Tires",
+      "title_d" : "Fillet Knives",
+      "episode" : 395
+   },
+   "nativehealingdrums" : {
+      "title_c" : "Stereoscopic Viewers",
+      "title_a" : "Native Healing Drums",
+      "title_b" : "Raisins",
+      "series_episode" : "20-01",
+      "episode" : 248,
+      "title_d" : "Ribbon Microphones"
+   },
+   "fireplacebellows" : {
+      "title_c" : "Diving Watercraft (Part 1)",
+      "title_a" : "Fireplace Bellows",
+      "series_episode" : "29-06",
+      "title_b" : "Calissons",
+      "episode" : 370,
+      "title_d" : "Diving Watercraft (Part 2)"
+   },
+   "chemicaltankpressurevents" : {
+      "series_episode" : "27-02",
+      "title_b" : "Candy Wafers",
+      "title_a" : "Chemical Tank Pressure Vents",
+      "title_c" : "Food Trucks",
+      "title_d" : "Traditional Ropes",
+      "episode" : 340
+   },
+   "skateboardwheels" : {
+      "episode" : 365,
+      "title_d" : "Honeycomb Candles",
+      "title_c" : "CO₂ Scrubbers",
+      "title_a" : "Skateboard Wheels",
+      "title_b" : "Baklava and Galactoboureko",
+      "series_episode" : "29-01"
+   },
+   "nascarcarbodies" : {
+      "title_d" : "Thermal Coffee Pots",
+      "episode" : 295,
+      "series_episode" : "23-09",
+      "title_b" : "Hurley Sticks",
+      "title_c" : "Tube Power Amplifiers",
+      "title_a" : "NASCAR Car Bodies"
+   },
+   "spacepens" : {
+      "episode" : 247,
+      "title_d" : "Composite Bicycle Wheels",
+      "title_a" : "Space Pens",
+      "title_c" : "Metal Caskets",
+      "title_b" : "Reef Aquariums",
+      "series_episode" : "19-13"
+   },
+   "mouthblownwindowglass" : {
+      "episode" : 328,
+      "title_d" : "Tweezers",
+      "title_a" : "Mouth Blown Window Glass",
+      "title_c" : "Sake",
+      "series_episode" : "26-03",
+      "title_b" : "Water Pumps"
+   },
+   "racingleathers" : {
+      "title_a" : "Racing Leathers",
+      "title_c" : "Wood Rocking Chairs",
+      "title_b" : "Evaporative Cooling Towers",
+      "series_episode" : "23-12",
+      "episode" : 298,
+      "title_d" : "Wire Wheels"
+   },
+   "indycarseats" : {
+      "episode" : 269,
+      "title_d" : "Standby Generators (Part 2)",
+      "title_a" : "Indy Car Seats",
+      "title_c" : "Standby Generators (Part 1)",
+      "series_episode" : "21-09",
+      "title_b" : "Paper Flowers"
+   },
+   "topbowlerhats" : {
+      "title_b" : "Solar Water Heaters",
+      "series_episode" : "18-12",
+      "title_a" : "Top & Bowler Hats",
+      "title_c" : "Sticky Buns",
+      "title_d" : "Electrostatic Speakers",
+      "episode" : 233
+   },
+   "rolledwafers" : {
+      "title_b" : "Wood Pellets",
+      "series_episode" : "17-06",
+      "title_a" : "Rolled Wafers",
+      "title_c" : "Class & Championship Rings (Part 1)",
+      "title_d" : "Class & Championship Rings (Part 2)",
+      "episode" : 214
+   },
+   "uprightpianos" : {
+      "series_episode" : "24-03",
+      "title_b" : "Flags",
+      "title_c" : "Wet/Dry Vacuums",
+      "title_a" : "Upright Pianos",
+      "title_d" : "Medieval Axes",
+      "episode" : 302
+   },
+   "customizedkneereplacements" : {
+      "title_c" : "Lavender Essential Oil",
+      "title_a" : "Customized Knee Replacements",
+      "title_b" : "Leaf Springs",
+      "series_episode" : "21-10",
+      "episode" : 270,
+      "title_d" : "Rivets and Rivet Tools"
+   },
+   "aluminiumcanoes" : {
+      "series_episode" : "21-08",
+      "title_b" : "Wooden Stave Bowls",
+      "title_c" : "Wheelchair Accessible Vans",
+      "title_a" : "Aluminium Canoes",
+      "title_d" : "Marimbas",
+      "episode" : 268
+   },
+   "glasssculptures" : {
+      "series_episode" : "30-08",
+      "title_b" : "Racing Pulley Systems",
+      "title_c" : "Inductors",
+      "title_a" : "Glass Sculptures",
+      "title_d" : "Medicine Balls",
+      "episode" : 385
+   },
+   "potash" : {
+      "title_d" : "Hex Key L Wrenches",
+      "episode" : 357,
+      "title_b" : "Leather Bracelets",
+      "series_episode" : "28-06",
+      "title_c" : "Wild Rice",
+      "title_a" : "Potash"
+   },
+   "endoscopes" : {
+      "title_b" : "Megaphones",
+      "series_episode" : "28-09",
+      "title_c" : "Uranium (Part 1)",
+      "title_a" : "Endoscopes",
+      "title_d" : "Uranium (Part 2)",
+      "episode" : 360
+   },
+   "stagecoaches" : {
+      "series_episode" : "20-04",
+      "title_b" : "Road Reflectors",
+      "title_a" : "Stagecoaches",
+      "title_c" : "Fire Baked Pottery",
+      "title_d" : "Custom Motorcycle Tanks",
+      "episode" : 251
+   },
+   "innerspringmattresses" : {
+      "title_b" : "Stand-up Paddleboards",
+      "series_episode" : "32-07",
+      "title_a" : "Innerspring Mattresses",
+      "title_c" : "Vacuum Cleaners (Part 1)",
+      "title_d" : "Vacuum Cleaners (Part 2)",
+      "episode" : 410
+   },
+   "deloreanrestoration" : {
+      "title_a" : "DeLorean Restoration",
+      "title_c" : "Shuffleboard Tables",
+      "title_b" : "Bison Fibre",
+      "series_episode" : "31-12",
+      "episode" : 402,
+      "title_d" : "Friction Forged Knives"
+   },
+   "castironcookware" : {
+      "episode" : 198,
+      "title_d" : "Stone Wool Insulation",
+      "title_c" : "Clothes Hangers",
+      "title_a" : "Cast Iron Cookware",
+      "title_b" : "Biodiesel",
+      "series_episode" : "16-03"
+   },
+   "leathersculptures" : {
+      "title_a" : "Leather Sculptures",
+      "title_c" : "Ochre",
+      "series_episode" : "30-05",
+      "title_b" : "Travel Hot plate",
+      "episode" : 382,
+      "title_d" : "Hurdy-gurdies"
+   },
+   "statuerestoration" : {
+      "series_episode" : "26-04",
+      "title_b" : "Tripods",
+      "title_c" : "Polish Sausages",
+      "title_a" : "Statue Restoration",
+      "title_d" : "Welding Guns",
+      "episode" : 329
+   },
+   "metalnailfiles" : {
+      "title_c" : "Cruiser Boat Hardtops",
+      "title_a" : "Metal Nail Files",
+      "series_episode" : "28-07",
+      "title_b" : "Birch Bark Canoes",
+      "episode" : 358,
+      "title_d" : "High Voltage Circuit Breakers"
+   },
+   "pressedglass" : {
+      "episode" : 281,
+      "title_d" : "Utility Knives",
+      "title_a" : "Pressed Glass",
+      "title_c" : "Alpaca Yarn",
+      "series_episode" : "22-08",
+      "title_b" : "Pickup Truck Caps"
+   },
+   "woodgaragedoors" : {
+      "title_d" : "Animatronic Dinosaurs (Part 2)",
+      "episode" : 312,
+      "series_episode" : "24-13",
+      "title_b" : "Salt Spreaders",
+      "title_c" : "Animatronic Dinosaurs (Part 1)",
+      "title_a" : "Wood Garage Doors"
+   },
+   "robotichuntingdecoys" : {
+      "title_a" : "Robotic Hunting Decoys",
+      "title_c" : "Scoreboards",
+      "title_b" : "Canned Tomatoes",
+      "series_episode" : "19-04",
+      "episode" : 238,
+      "title_d" : "Lassos"
+   },
+   "wallbeds" : {
+      "title_b" : "Sundae Cups",
+      "series_episode" : "30-13",
+      "title_c" : "Digital Paintings",
+      "title_a" : "Wall Beds",
+      "title_d" : "Badminton Rackets",
+      "episode" : 390
+   },
+   "steelbistrosets" : {
+      "title_a" : "Steel Bistro Sets",
+      "title_c" : "Bamboo Ceramic Lights",
+      "series_episode" : "29-11",
+      "title_b" : "Letterpress Printing",
+      "episode" : 375,
+      "title_d" : "Asphalt Compactors"
+   },
+   "customsteeringwheels" : {
+      "title_a" : "Custom Steering Wheels",
+      "title_c" : "Apple Pies",
+      "series_episode" : "17-08",
+      "title_b" : "Aerospace Fuel Lines",
+      "episode" : 216,
+      "title_d" : "Household Radiators"
+   },
+   "handforgedhammers" : {
+      "title_c" : "Boat Trailers",
+      "title_a" : "Hand Forged Hammers",
+      "series_episode" : "32-05",
+      "title_b" : "Gummy Vitamins",
+      "episode" : 408,
+      "title_d" : "Tea Lights & Jar Candles"
+   },
+   "plantoilextractors" : {
+      "title_d" : "Coffee Pods",
+      "episode" : 380,
+      "series_episode" : "30-03",
+      "title_b" : "Custom-made Chandeliers",
+      "title_a" : "Plant Oil Extractors",
+      "title_c" : "Power Trainers"
+   },
+   "lifecasting" : {
+      "episode" : 282,
+      "title_d" : "Electric Motorcycles",
+      "title_c" : "Compression Hosiery",
+      "title_a" : "Life Casting",
+      "title_b" : "Downdraft Cooktops",
+      "series_episode" : "22-09"
+   },
+   "clay" : {
+      "title_d" : "Polyurethane Tires",
+      "episode" : 244,
+      "series_episode" : "19-10",
+      "title_b" : "Pitted Prunes",
+      "title_c" : "Spurs",
+      "title_a" : "Clay"
+   },
+   "electricvehiclechargingstations" : {
+      "title_c" : "Lunar Rover Replicas (Part 1)",
+      "title_a" : "Electric Vehicle Charging Stations",
+      "title_b" : "Grappa",
+      "series_episode" : "23-10",
+      "episode" : 296,
+      "title_d" : "Lunar Rover Replicas (Part 2)"
+   },
+   "exercisebike" : {
+      "episode" : 337,
+      "title_d" : "Slate Products",
+      "title_a" : "Exercise Bike",
+      "title_c" : "Pasta Makers",
+      "series_episode" : "26-12",
+      "title_b" : "Cornish Pasties"
+   },
+   "armoredvehicles" : {
+      "episode" : 321,
+      "title_d" : "Sculpture Enlargements",
+      "title_a" : "Armored Vehicles",
+      "title_c" : "Rowers",
+      "series_episode" : "25-09",
+      "title_b" : "Tension Fabric Buildings"
+   },
+   "technologicalcorks" : {
+      "title_d" : "Chisteras",
+      "episode" : 376,
+      "series_episode" : "29-12",
+      "title_b" : "Zinc Gutters",
+      "title_a" : "Technological Corks",
+      "title_c" : "Traditional Basque Ham"
+   },
+   "mobileconcertstages" : {
+      "series_episode" : "23-08",
+      "title_b" : "Mascara",
+      "title_c" : "Continuous Miners",
+      "title_a" : "Mobile Concert Stages",
+      "title_d" : "Wood Gift Boxes",
+      "episode" : 294
+   },
+   "hollowdiskpumps" : {
+      "title_a" : "Hollow Disk Pumps",
+      "title_c" : "Yachts (Part 1)",
+      "series_episode" : "28-10",
+      "title_b" : "Palm Sugar",
+      "episode" : 361,
+      "title_d" : "Yachts (Part 2)"
+   },
+   "fishingline" : {
+      "title_c" : "Natural Baking Soda",
+      "title_a" : "Fishing Line",
+      "title_b" : "Industrial Mixers",
+      "series_episode" : "25-03",
+      "episode" : 315,
+      "title_d" : "Tow Trucks"
+   },
+   "champagnehoodsfoils" : {
+      "title_d" : "Pizza Ovens",
+      "episode" : 332,
+      "series_episode" : "26-07",
+      "title_b" : "Pneumatic Delivery Systems",
+      "title_a" : "Champagne Hoods & Foils",
+      "title_c" : "Espresso Machines"
+   },
+   "grammyawards" : {
+      "episode" : 313,
+      "title_d" : "Foldable Solar Panels",
+      "title_a" : "Grammy Awards",
+      "title_c" : "Above-Ground Pools",
+      "title_b" : "Bicycle Lights",
+      "series_episode" : "25-01"
+   },
+   "flyingwaterbikes" : {
+      "episode" : 372,
+      "title_d" : "Handmade Rasps",
+      "title_a" : "Flying Water Bikes",
+      "title_c" : "Cinnamon Cordial",
+      "title_b" : "Throttle Position Sensors",
+      "series_episode" : "29-08"
+   },
+   "oldwestholsters" : {
+      "title_d" : "Pet Nail Trimmers",
+      "episode" : 311,
+      "series_episode" : "24-12",
+      "title_b" : "Underwater Video Housings",
+      "title_c" : "Soy Beverages",
+      "title_a" : "Old West Holsters"
+   },
+   "tapiocapudding" : {
+      "series_episode" : "18-08",
+      "title_b" : "Snow Ploughs",
+      "title_c" : "Paddle Boats",
+      "title_a" : "Tapioca Pudding",
+      "title_d" : "Fibre Cement siding",
+      "episode" : 229
+   },
+   "kitchenaccessories" : {
+      "title_a" : "Kitchen Accessories",
+      "title_c" : "Papier-Mâché Animals",
+      "series_episode" : "16-08",
+      "title_b" : "Central Vacuums",
+      "episode" : 203,
+      "title_d" : "Hydraulic Cylinders"
+   },
+   "industrialwireropes" : {
+      "title_b" : "Living Walls",
+      "series_episode" : "18-02",
+      "title_a" : "Industrial Wire Ropes",
+      "title_c" : "Large Format Cameras",
+      "title_d" : "Gemstones",
+      "episode" : 223
+   },
+   "officechairs" : {
+      "title_d" : "Lithographs",
+      "episode" : 369,
+      "title_b" : "Vinobrew",
+      "series_episode" : "29-05",
+      "title_c" : "Reconditioned Sander Drums",
+      "title_a" : "Office Chairs"
+   },
+   "ultrathinglass" : {
+      "episode" : 356,
+      "title_d" : "Seamless Stainless Steel Tube",
+      "title_a" : "Ultra Thin Glass",
+      "title_c" : "Cupcakes",
+      "title_b" : "Pallet Dismantling Machines",
+      "series_episode" : "28-05"
+   },
+   "collagen" : {
+      "title_a" : "Collagen",
+      "title_c" : "Embossed Wood Mouldings",
+      "title_b" : "Digital-to-Analog Converters",
+      "series_episode" : "28-11",
+      "episode" : 362,
+      "title_d" : "Plier Staplers"
+   },
+   "farmedcaviar" : {
+      "series_episode" : "18-04",
+      "title_b" : "Intake Manifolds",
+      "title_c" : "Motorcycle Jackets",
+      "title_a" : "Farmed Caviar",
+      "title_d" : "Shovels & Spades",
+      "episode" : 225
+   },
+   "navajorugs" : {
+      "title_d" : "Titanium Dental Implants",
+      "episode" : 246,
+      "series_episode" : "19-12",
+      "title_b" : "Crude Oil",
+      "title_a" : "Navajo Rugs",
+      "title_c" : "Kaleidoscopes"
+   },
+   "educationalrobot" : {
+      "series_episode" : "31-08",
+      "title_b" : "Boxing belts",
+      "title_c" : "Boat-Radar Mounts",
+      "title_a" : "Educational Robot",
+      "title_d" : "European-Style Radiators",
+      "episode" : 398
+   },
+   "motionsensors" : {
+      "title_c" : "Pheasant Breeding",
+      "title_a" : "Motion Sensors",
+      "title_b" : "Belt Loaders",
+      "series_episode" : "23-01",
+      "episode" : 287,
+      "title_d" : "Diving Helmets"
+   },
+   "carheadlamps" : {
+      "episode" : 318,
+      "title_d" : "Stained Glass Restoration",
+      "title_a" : "Car Headlamps",
+      "title_c" : "Pet Grooming Combs",
+      "title_b" : "Directional Drills",
+      "series_episode" : "25-06"
+   },
+   "recycledskateboards" : {
+      "episode" : 308,
+      "title_d" : "Metalworking Vises",
+      "title_c" : "Construction Trailers",
+      "title_a" : "Recycled Skateboards",
+      "title_b" : "Braided Pastry",
+      "series_episode" : "24-09"
+   },
+   "scubadivinglights" : {
+      "title_a" : "Scuba Diving Lights",
+      "title_c" : "Race Car Simulators",
+      "title_b" : "Interchangeable Sandals",
+      "series_episode" : "24-06",
+      "episode" : 305,
+      "title_d" : "Fibreglass Doors"
+   },
+   "pastadies" : {
+      "series_episode" : "28-02",
+      "title_b" : "Blueberries",
+      "title_c" : "Composting Toilets",
+      "title_a" : "Pasta Dies",
+      "title_d" : "Surge Arresters",
+      "episode" : 353
+   },
+   "champagne" : {
+      "title_b" : "ATMs",
+      "series_episode" : "26-05",
+      "title_c" : "Marine Turbochargers (Part 1)",
+      "title_a" : "Champagne",
+      "title_d" : "Marine Turbochargers (Part 2)",
+      "episode" : 330
+   },
+   "graphene" : {
+      "title_d" : "Composite Cans",
+      "episode" : 341,
+      "title_b" : "World's Smallest Car",
+      "series_episode" : "27-03",
+      "title_a" : "Graphene",
+      "title_c" : "Force Testers"
+   },
+   "fishrubbings" : {
+      "episode" : 386,
+      "title_d" : "High-End Motorcycles",
+      "title_a" : "Fish Rubbings",
+      "title_c" : "Almonds",
+      "series_episode" : "30-09",
+      "title_b" : "Clay Shooting Machines"
+   },
+   "cartires" : {
+      "title_d" : "Scuba Tanks",
+      "episode" : 273,
+      "series_episode" : "21-13",
+      "title_b" : "Silk",
+      "title_a" : "Car Tires",
+      "title_c" : "Art Conservation"
+   },
+   "pharmaceuticalblisterpacks" : {
+      "episode" : 232,
+      "title_d" : "Weathervanes",
+      "title_c" : "Oysters",
+      "title_a" : "Pharmaceutical Blister Packs",
+      "title_b" : "Deli Slicers",
+      "series_episode" : "18-11"
+   },
+   "indysteeringwheels" : {
+      "episode" : 276,
+      "title_d" : "Wind Turbines (Part 2)",
+      "title_c" : "Wind Turbines (Part 1)",
+      "title_a" : "Indy Steering Wheels",
+      "title_b" : "Mixed Salad",
+      "series_episode" : "22-03"
+   },
+   "paperfans" : {
+      "title_c" : "Copper (Part 1)",
+      "title_a" : "Paper Fans",
+      "series_episode" : "20-12",
+      "title_b" : "Walnut Oil",
+      "episode" : 259,
+      "title_d" : "Copper (Part 2)"
+   },
+   "electricstandupvehicles" : {
+      "title_a" : "Electric Stand-up Vehicles",
+      "title_c" : "Beer Coasters",
+      "series_episode" : "22-01",
+      "title_b" : "Frozen Fruit",
+      "episode" : 274,
+      "title_d" : "Forged Door Handles"
+   },
+   "timedelaylocks" : {
+      "title_d" : "Crystal Chandeliers",
+      "episode" : 326,
+      "title_b" : "Brownies",
+      "series_episode" : "26-01",
+      "title_c" : "Pallet Dispensers",
+      "title_a" : "Time-Delay Locks"
+   },
+   "fishreplicas" : {
+      "title_c" : "Pre-packaged Sandwiches",
+      "title_a" : "Fish Replicas",
+      "series_episode" : "18-07",
+      "title_b" : "Siren Systems",
+      "episode" : 228,
+      "title_d" : "Candlesticks"
+   },
+   "mortarsandpestles" : {
+      "title_c" : "Crematories",
+      "title_a" : "Mortars and Pestles",
+      "title_b" : "Bowling Lane Conditioners",
+      "series_episode" : "27-11",
+      "episode" : 349,
+      "title_d" : "Wood Playsets"
+   },
+   "throttlebodies" : {
+      "title_c" : "Candied Fruit",
+      "title_a" : "Throttle Bodies",
+      "title_b" : "Limestone Fireplace Mantels",
+      "series_episode" : "30-10",
+      "episode" : 387,
+      "title_d" : "Linen Ukuleles"
+   },
+   "electrophoreticdisplays" : {
+      "title_b" : "Dry Erase Boards",
+      "series_episode" : "32-01",
+      "title_a" : "Electrophoretic Displays",
+      "title_c" : "Air Rifles",
+      "title_d" : "Quartz Countertops",
+      "episode" : 404
+   },
+   "3wheelelectricbikes" : {
+      "title_a" : "3-Wheel Electric Bikes",
+      "title_c" : "Patio Heaters",
+      "title_b" : "Skin Cream",
+      "series_episode" : "24-11",
+      "episode" : 310,
+      "title_d" : "Wood Spoke Wheels"
+   },
+   "foosballtables" : {
+      "title_b" : "Marseille Soap",
+      "series_episode" : "29-09",
+      "title_c" : "Laguiole Knives (Part 1)",
+      "title_a" : "Foosball Tables",
+      "title_d" : "Laguiole Knives (Part 2)",
+      "episode" : 373
+   },
+   "recyclingskateboardguitars" : {
+      "episode" : 383,
+      "title_d" : "Dolls (Part 2)",
+      "title_a" : "Recycling Skateboard Guitars",
+      "title_c" : "Dolls (Part 1)",
+      "series_episode" : "30-06",
+      "title_b" : "Solar Street Lights"
+   },
+   "gelcaps" : {
+      "episode" : 266,
+      "title_d" : "Natural Rubber",
+      "title_c" : "Frozen Pancakes",
+      "title_a" : "Gel Caps",
+      "series_episode" : "21-06",
+      "title_b" : "Playground Spring Riders"
+   },
+   "customkneebraces" : {
+      "title_c" : "Window Film",
+      "title_a" : "Custom Knee Braces",
+      "title_b" : "Ductless Air Conditioners",
+      "series_episode" : "22-11",
+      "episode" : 284,
+      "title_d" : "Motorcycle Exhaust Systems"
+   },
+   "digitaldentistry" : {
+      "title_d" : "Canola Oil",
+      "episode" : 205,
+      "series_episode" : "16-10",
+      "title_b" : "Nail Clippers",
+      "title_a" : "Digital Dentistry",
+      "title_c" : "Poster Restoration"
+   },
+   "powderhorns" : {
+      "title_d" : "Inner Tubes",
+      "episode" : 262,
+      "series_episode" : "21-02",
+      "title_b" : "Handcrafted Moulds",
+      "title_c" : "Pierogies",
+      "title_a" : "Powder Horns"
+   },
+   "filigreeglass" : {
+      "episode" : 200,
+      "title_d" : "Motor Homes (Part 2)",
+      "title_a" : "Filigree Glass",
+      "title_c" : "Motor Homes (Part 1)",
+      "series_episode" : "16-05",
+      "title_b" : "Fish Food"
+   },
+   "sleeperrigs" : {
+      "title_d" : "Acetate Eyewear",
+      "episode" : 400,
+      "series_episode" : "31-10",
+      "title_b" : "Pecans",
+      "title_a" : "Sleeper Rigs",
+      "title_c" : "Steel Pulleys"
+   },
+   "rubberballs" : {
+      "episode" : 388,
+      "title_d" : "Motorized Scooters",
+      "title_c" : "Montreal Smoked Meat",
+      "title_a" : "Rubber Balls",
+      "series_episode" : "30-11",
+      "title_b" : "Motion Chairs"
+   },
+   "audiovacuumtubes" : {
+      "title_b" : "Light Bars",
+      "series_episode" : "16-07",
+      "title_a" : "Audio Vacuum Tubes",
+      "title_c" : "Wood Model Aircraft",
+      "title_d" : "Metal Snare Drums",
+      "episode" : 202
+   },
+   "dialthermometers" : {
+      "episode" : 206,
+      "title_d" : "Straw Sombreros",
+      "title_a" : "Dial Thermometers",
+      "title_c" : "Spent Fuel Containers",
+      "series_episode" : "16-11",
+      "title_b" : "Hummus"
+   },
+   "multitools" : {
+      "title_c" : "Marionettes (Part 1)",
+      "title_a" : "Multi-tools",
+      "title_b" : "Jojoba Oil",
+      "series_episode" : "19-06",
+      "episode" : 240,
+      "title_d" : "Marionettes (Part 2)"
+   },
+   "ulocks" : {
+      "title_b" : "Tepees",
+      "series_episode" : "20-07",
+      "title_a" : "U-Locks",
+      "title_c" : "Croissants",
+      "title_d" : "Rolling Luggage",
+      "episode" : 254
+   },
+   "castironstoves" : {
+      "title_d" : "Rubber Bands",
+      "episode" : 271,
+      "series_episode" : "21-11",
+      "title_b" : "Ultralight Aircraft",
+      "title_a" : "Cast Iron Stoves",
+      "title_c" : "Snow Groomers"
+   },
+   "spiralstairs" : {
+      "title_d" : "Molded Limestone Artwork",
+      "episode" : 384,
+      "series_episode" : "30-07",
+      "title_b" : "Pita bread",
+      "title_c" : "Exhaust Headers",
+      "title_a" : "Spiral Stairs"
+   },
+   "compressionextensionsprings" : {
+      "title_a" : "Compression & Extension Springs",
+      "title_c" : "Skiffs",
+      "series_episode" : "32-09",
+      "title_b" : "Micro Drill Bits",
+      "episode" : 412,
+      "title_d" : "Painted Glass Backsplashers"
+   },
+   "glassfaucets" : {
+      "title_d" : "Barbecue Utensils",
+      "episode" : 397,
+      "series_episode" : "31-07",
+      "title_b" : "Fire Truck Ladders",
+      "title_a" : "Glass Faucets",
+      "title_c" : "Antique clock Restoration"
+   },
+   "rubbergloves" : {
+      "episode" : 261,
+      "title_d" : "Motorcycle Brake Locks",
+      "title_a" : "Rubber Gloves",
+      "title_c" : "Aircraft Cabinets",
+      "title_b" : "Soap Carvings",
+      "series_episode" : "21-01"
+   },
+   "aerospacefasteners" : {
+      "title_b" : "Cactus Pear Puree",
+      "series_episode" : "30-12",
+      "title_a" : "Aerospace Fasteners",
+      "title_c" : "Lab Reactors (Part 1)",
+      "title_d" : "Lab Reactors (Part 2)",
+      "episode" : 389
+   },
+   "cotton" : {
+      "title_d" : "Rotary Engines",
+      "episode" : 399,
+      "series_episode" : "31-09",
+      "title_b" : "Rodeo Roping Chutes",
+      "title_a" : "Cotton",
+      "title_c" : "Asian Noodles"
+   },
+   "skeletalreplicas" : {
+      "episode" : 303,
+      "title_d" : "Inground Pools",
+      "title_a" : "Skeletal Replicas",
+      "title_c" : "Dining Chairs",
+      "title_b" : "Ice Buckets & Servers",
+      "series_episode" : "24-04"
+   },
+   "thaibarbecues" : {
+      "title_b" : "Diving Masks & Fins",
+      "series_episode" : "28-12",
+      "title_c" : "Bassoons (Part 1)",
+      "title_a" : "Thai Barbecues",
+      "title_d" : "Bassoons (Part 2)",
+      "episode" : 363
+   },
+   "downhillskibindings" : {
+      "title_b" : "Immersion Parts Washers",
+      "series_episode" : "25-11",
+      "title_c" : "Mining Ventilation",
+      "title_a" : "Downhill Ski Bindings",
+      "title_d" : "Pencil Sharpeners",
+      "episode" : 323
+   },
+   "pewterflasks" : {
+      "title_d" : "Engineered Wood siding",
+      "episode" : 236,
+      "series_episode" : "19-02",
+      "title_b" : "Potato Salad",
+      "title_a" : "Pewter Flasks",
+      "title_c" : "Hydrogen Fuel Cells"
+   },
+   "replicaclaypipes" : {
+      "title_d" : "Compound Bows",
+      "episode" : 252,
+      "title_b" : "Drinking Fountains",
+      "series_episode" : "20-05",
+      "title_c" : "Orange Liqueur",
+      "title_a" : "Replica Clay Pipes"
+   },
+   "customshoetrees" : {
+      "title_a" : "Custom Shoe Trees",
+      "title_c" : "Squeeze Chutes",
+      "title_b" : "Clay Targets",
+      "series_episode" : "32-02",
+      "episode" : 405,
+      "title_d" : "Composite Boat Propellers"
+   },
+   "rockcrushers" : {
+      "series_episode" : "22-02",
+      "title_b" : "Fabric Lampshades",
+      "title_c" : "Cake Sprinkles",
+      "title_a" : "Rock Crushers",
+      "title_d" : "Steam Irons",
+      "episode" : 275
+   },
+   "thinningshears" : {
+      "series_episode" : "20-09",
+      "title_b" : "Wagon Wheels",
+      "title_a" : "Thinning Shears",
+      "title_c" : "Toaster Pastries",
+      "title_d" : "Violin Bows",
+      "episode" : 256
+   },
+   "macaroons" : {
+      "title_d" : "Micrometers (Part 2)",
+      "episode" : 359,
+      "series_episode" : "28-08",
+      "title_b" : "Pine Needle Baskets",
+      "title_a" : "Macaroons",
+      "title_c" : "Micrometers (Part 1)"
+   },
+   "peakedcaps" : {
+      "series_episode" : "32-13",
+      "title_b" : "Custom Water Heaters",
+      "title_a" : "Peaked Caps",
+      "title_c" : "Electric Boats",
+      "title_d" : "Fencing Foils",
+      "episode" : 416
+   },
+   "surgicalinstruments" : {
+      "series_episode" : "16-06",
+      "title_b" : "Ketchup",
+      "title_c" : "Double-Decker Buses",
+      "title_a" : "Surgical Instruments",
+      "title_d" : "Walking Sticks",
+      "episode" : 201
+   },
+   "whips" : {
+      "episode" : 217,
+      "title_d" : "Model Jet Engines",
+      "title_c" : "Incense Cones",
+      "title_a" : "Whips",
+      "series_episode" : "17-09",
+      "title_b" : "Automatic Pizza Makers"
+   },
+   "corntortillas" : {
+      "title_d" : "Aluminium Bike Wheels",
+      "episode" : 212,
+      "series_episode" : "17-04",
+      "title_b" : "Crankshafts & Camshafts",
+      "title_a" : "Corn Tortillas",
+      "title_c" : "Bush Planes"
+   },
+   "basquepelotaballs" : {
+      "episode" : 391,
+      "title_d" : "Brass Faucets",
+      "title_c" : "Dumplings",
+      "title_a" : "Basque Pelota Balls",
+      "series_episode" : "31-01",
+      "title_b" : "Pallet Trucks"
+   },
+   "fencingmasks" : {
+      "series_episode" : "32-10",
+      "title_b" : "Books",
+      "title_a" : "Fencing masks",
+      "title_c" : "Ocean Drone Transformers",
+      "title_d" : "3D Puzzles",
+      "episode" : 413
+   },
+   "chocolatecoins" : {
+      "title_c" : "Pedal Cars",
+      "title_a" : "Chocolate Coins",
+      "series_episode" : "18-03",
+      "title_b" : "Floor Heating System",
+      "episode" : 224,
+      "title_d" : "Latex Swords"
+   },
+   "handcraftedskis" : {
+      "series_episode" : "25-07",
+      "title_b" : "Septic Tanks",
+      "title_a" : "Handcrafted Skis",
+      "title_c" : "Hydroformed Chassis Parts",
+      "title_d" : "Aquarium Windows",
+      "episode" : 319
+   },
+   "berets" : {
+      "episode" : 374,
+      "title_d" : "Stationary Bikes (Part 2)",
+      "title_c" : "Stationary Bikes (Part 1)",
+      "title_a" : "Berets",
+      "title_b" : "Pastis",
+      "series_episode" : "29-10"
+   },
+   "thermoplasticfirehelmets" : {
+      "title_c" : "Coffee Roasters (Part 1)",
+      "title_a" : "Thermoplastic Fire Helmets",
+      "series_episode" : "29-04",
+      "title_b" : "Basketry Sculptures",
+      "episode" : 368,
+      "title_d" : "Coffee Roasters (Part 2)"
+   },
+   "mosquitocoils" : {
+      "title_d" : "Fiberglass Chopper Guns",
+      "episode" : 345,
+      "title_b" : "Solar-Assist Tricycles",
+      "series_episode" : "27-07",
+      "title_a" : "Mosquito Coils",
+      "title_c" : "Palm Oil"
+   },
+   "leatherbasketballs" : {
+      "series_episode" : "30-01",
+      "title_b" : "Flood Gates",
+      "title_c" : "Wood Panel Canvases",
+      "title_a" : "Leather Basketballs",
+      "title_d" : "Shoelaces",
+      "episode" : 378
+   },
+   "combinationsquares" : {
+      "title_c" : "Ball Valves",
+      "title_a" : "Combination Squares",
+      "title_b" : "Farmed Shrimp",
+      "series_episode" : "27-09",
+      "episode" : 347,
+      "title_d" : "String Trimmers"
+   },
+   "millefioriglasspaperweights" : {
+      "series_episode" : "16-01",
+      "title_b" : "Road Salt",
+      "title_c" : "Nutcrackers",
+      "title_a" : "Millefiori Glass Paperweights",
+      "title_d" : "Car Doors",
+      "episode" : 196
+   },
+   "millefioriglasspaperweight" : {
+      "series_episode" : "16-01",
+      "title_b" : "Road Salt",
+      "title_c" : "Nutcrackers",
+      "title_a" : "Millefiori Glass Paperweight",
+      "title_d" : "Car Doors",
+      "episode" : 196
+   },
+   "gasbarbecues" : {
+      "title_a" : "Gas Barbecues",
+      "title_c" : "Ear Prostheses (Part 1)",
+      "title_b" : "Mattress Pads",
+      "series_episode" : "24-08",
+      "episode" : 307,
+      "title_d" : "Ear Prostheses (Part 2)"
+   },
+   "nailnippers" : {
+      "title_b" : "Jade Putters",
+      "series_episode" : "20-03",
+      "title_c" : "Ice Cider",
+      "title_a" : "Nail Nippers",
+      "title_d" : "Water Skis",
+      "episode" : 250
+   },
+   "commercialdrones" : {
+      "title_b" : "Aquarium Fish",
+      "series_episode" : "27-05",
+      "title_a" : "Commercial Drones",
+      "title_c" : "Runway Cleaners",
+      "title_d" : "Shuttlecocks",
+      "episode" : 343
+   },
+   "heathergems" : {
+      "episode" : 218,
+      "title_d" : "Electric Roadsters",
+      "title_a" : "Heather Gems",
+      "title_c" : "Beet Sugar",
+      "title_b" : "Instant Film",
+      "series_episode" : "17-10"
+   },
+   "underwaterrobots" : {
+      "episode" : 219,
+      "title_d" : "Ski and Trekking Poles",
+      "title_c" : "Band Saws",
+      "title_a" : "Underwater Robots",
+      "title_b" : "Lasagne",
+      "series_episode" : "17-11"
+   },
+   "turntables" : {
+      "episode" : 234,
+      "title_d" : "Non-stick Cookware",
+      "title_c" : "Playground Equipment",
+      "title_a" : "Turntables",
+      "series_episode" : "18-13",
+      "title_b" : "Steam Engines"
+   },
+   "tissues" : {
+      "series_episode" : "20-06",
+      "title_b" : "Travel Trailers",
+      "title_a" : "Tissues",
+      "title_c" : "Slippers",
+      "title_d" : "Motorcycle Helmets",
+      "episode" : 253
+   },
+   "noisebarrierwalls" : {
+      "title_b" : "Front-Load Washers",
+      "series_episode" : "23-03",
+      "title_c" : "Bourbon",
+      "title_a" : "Noise Barrier Walls",
+      "title_d" : "Flexible Circuit Boards",
+      "episode" : 289
+   },
+   "cheesegraters" : {
+      "episode" : 210,
+      "title_d" : "Traditional Mexican Chairs",
+      "title_c" : "Silver Jewellery",
+      "title_a" : "Cheese Graters",
+      "title_b" : "Hot Sauce",
+      "series_episode" : "17-02"
+   },
+   "guitarpickups" : {
+      "episode" : 409,
+      "title_d" : "Nonconductive Tools",
+      "title_c" : "Water Well Cylinders",
+      "title_a" : "Guitar Pickups",
+      "title_b" : "Heated Furniture",
+      "series_episode" : "32-06"
+   },
+   "ledtubes" : {
+      "title_c" : "Robotic Medication Dispensers (part 1)",
+      "title_a" : "LED Tubes",
+      "series_episode" : "27-04",
+      "title_b" : "Chocolate Peanut Butter Bars",
+      "episode" : 342,
+      "title_d" : "Robotic Medication Dispensers (part 2)"
+   },
+   "straightrazors" : {
+      "title_c" : "Steering Wheels",
+      "title_a" : "Straight Razors",
+      "title_b" : "Black Pudding",
+      "series_episode" : "16-02",
+      "episode" : 197,
+      "title_d" : "Inorganic Pigments"
+   },
+   "racecaroiltanks" : {
+      "title_c" : "Lemongrass Oil",
+      "title_a" : "Race Car Oil Tanks",
+      "series_episode" : "27-12",
+      "title_b" : "Plaster Moldings",
+      "episode" : 350,
+      "title_d" : "Fly Tying Vises"
+   },
+   "ricecookers" : {
+      "series_episode" : "31-06",
+      "title_b" : "Concealment Furniture",
+      "title_c" : "Promotional Origami",
+      "title_a" : "Rice Cookers",
+      "title_d" : "Hedge Shears",
+      "episode" : 396
+   },
+   "rallycars" : {
+      "title_a" : "Rally Cars",
+      "title_c" : "Floating Fountains",
+      "title_b" : "Pork Pies",
+      "series_episode" : "18-09",
+      "episode" : 230,
+      "title_d" : "Artificial Stone Ornaments"
+   },
+   "vibratingminingscreens" : {
+      "title_d" : "Roller Conveyors",
+      "episode" : 336,
+      "series_episode" : "26-11",
+      "title_b" : "Whoopie Pies",
+      "title_c" : "Wood Utility Poles",
+      "title_a" : "Vibrating Mining Screens"
+   },
+   "turbochargers" : {
+      "title_b" : "Enchiladas",
+      "series_episode" : "17-13",
+      "title_c" : "Watches (Part 1)",
+      "title_a" : "Turbochargers",
+      "title_d" : "Watches (Part 2)",
+      "episode" : 221
+   },
+   "clayliquorjugs" : {
+      "title_c" : "NASCAR Engines (Part 1)",
+      "title_a" : "Clay Liquor Jugs",
+      "title_b" : "Poultry Deli Meats",
+      "series_episode" : "16-09",
+      "episode" : 204,
+      "title_d" : "NASCAR Engines (Part 2)"
+   },
+   "mountainbikes" : {
+      "title_b" : "Rice",
+      "series_episode" : "23-13",
+      "title_c" : "Lever Action Rifles (Part 1)",
+      "title_a" : "Mountain Bikes",
+      "title_d" : "Lever Action Rifles (Part 2)",
+      "episode" : 299
+   },
+   "slatetiles" : {
+      "episode" : 297,
+      "title_d" : "Bicycle Seats",
+      "title_c" : "Garage Door Openers",
+      "title_a" : "Slate Tiles",
+      "title_b" : "Hot Dog Carts",
+      "series_episode" : "23-11"
+   },
+   "orthodonticretainers" : {
+      "title_a" : "Orthodontic Retainers",
+      "title_c" : "Retractable Saunas",
+      "series_episode" : "32-03",
+      "title_b" : "Orange Juice",
+      "episode" : 406,
+      "title_d" : "Sawmill Blade Knives"
+   },
+   "solidstatedrives" : {
+      "series_episode" : "22-12",
+      "title_b" : "Eye Shadow",
+      "title_a" : "Solid State Drives",
+      "title_c" : "Limousines",
+      "title_d" : "Dead Blow Hammers",
+      "episode" : 285
+   },
+   "precastconcretewalls" : {
+      "title_d" : "Kerosene Lamp Burners",
+      "episode" : 317,
+      "series_episode" : "25-05",
+      "title_b" : "3D Printers",
+      "title_a" : "Precast Concrete Walls",
+      "title_c" : "Telescopic Cranes"
+   },
+   "barberchairs" : {
+      "title_b" : "Sewage Pumps",
+      "series_episode" : "21-12",
+      "title_a" : "Barber Chairs",
+      "title_c" : "Bimini Boat Tops",
+      "title_d" : "Diesel Filters",
+      "episode" : 272
+   },
+   "laptops" : {
+      "title_a" : "Laptops",
+      "title_c" : "Saxophones (Part 1)",
+      "title_b" : "Panettone",
+      "series_episode" : "31-02",
+      "episode" : 392,
+      "title_d" : "Saxophones (Part 2)"
+   },
+   "compositepropanecylinders" : {
+      "title_d" : "Dragsters",
+      "episode" : 208,
+      "series_episode" : "16-13",
+      "title_b" : "Salsa",
+      "title_c" : "Water-Pumping Windmills",
+      "title_a" : "Composite Propane Cylinders"
+   },
+   "gamecalls" : {
+      "episode" : 211,
+      "title_d" : "Butterfly Safety Razors",
+      "title_c" : "Traditional Razor Blades",
+      "title_a" : "Game Calls",
+      "series_episode" : "17-03",
+      "title_b" : "Mayonnaise"
+   },
+   "dragsterstires" : {
+      "title_c" : "Floating Docks",
+      "title_a" : "Dragsters Tires",
+      "series_episode" : "22-13",
+      "title_b" : "Icing",
+      "episode" : 286,
+      "title_d" : "Spiral Pipes"
+   },
+   "powersteeringpumps" : {
+      "title_c" : "Walking Canes (Part 1)",
+      "title_a" : "Power Steering Pumps",
+      "title_b" : "Asian Bowl Meals",
+      "series_episode" : "30-02",
+      "episode" : 379,
+      "title_d" : "Walking Canes (Part 2)"
+   },
+   "foldingkayaks" : {
+      "title_a" : "Folding Kayaks",
+      "title_c" : "Garbage Trucks",
+      "series_episode" : "17-05",
+      "title_b" : "Piñatas",
+      "episode" : 213,
+      "title_d" : "Ceramic Composite Brake Discs"
+   },
+   "cufflinks" : {
+      "title_d" : "Earthenware Pottery",
+      "episode" : 231,
+      "title_b" : "Blueberry Turnovers",
+      "series_episode" : "18-10",
+      "title_a" : "Cufflinks",
+      "title_c" : "Dashboards"
+   },
+   "tinwhistles" : {
+      "series_episode" : "32-11",
+      "title_b" : "Horn Products",
+      "title_c" : "Formula F Race Cars (Part 1)",
+      "title_a" : "Tin Whistles",
+      "title_d" : "Formula F Race Cars (Part 2)",
+      "episode" : 414
+   },
+   "belts" : {
+      "series_episode" : "32-08",
+      "title_b" : "3D Metal Printers",
+      "title_c" : "Detectable Warning Panels",
+      "title_a" : "Belts",
+      "title_d" : "Model Stirling Engines",
+      "episode" : 411
+   },
+   "railwaybridgeties" : {
+      "series_episode" : "23-04",
+      "title_b" : "Membrane Filters",
+      "title_c" : "Hydraulic Post Drivers",
+      "title_a" : "Railway Bridge Ties",
+      "title_d" : "Bi-planes",
+      "episode" : 290
+   },
+   "oillamps" : {
+      "title_d" : "Pillows",
+      "episode" : 301,
+      "series_episode" : "24-02",
+      "title_b" : "Chocolate Mints",
+      "title_a" : "Oil Lamps",
+      "title_c" : "Underfloor Heating"
+   },
+   "ziplinebrakes" : {
+      "title_d" : "Comfort Shoes",
+      "episode" : 320,
+      "title_b" : "Silk Fiber Lamps",
+      "series_episode" : "25-08",
+      "title_c" : "Round Balers",
+      "title_a" : "Zip Line Brakes"
+   },
+   "gutstrings" : {
+      "episode" : 260,
+      "title_d" : "Lever Locks",
+      "title_a" : "Gut Strings",
+      "title_c" : "Belt Buckles",
+      "title_b" : "Absinthe",
+      "series_episode" : "20-13"
+   },
+   "trafficsignalpoles" : {
+      "title_c" : "Chainsaw Mining Machines (Part 1)",
+      "title_a" : "Traffic Signal Poles",
+      "title_b" : "Coffee Filters",
+      "series_episode" : "25-13",
+      "episode" : 325,
+      "title_d" : "Chainsaw Mining Machines (Part 2)"
+   },
+   "tasers" : {
+      "title_a" : "Tasers",
+      "title_c" : "Jaw Harps & Mouth Bows",
+      "series_episode" : "19-11",
+      "title_b" : "Canned Soup",
+      "episode" : 245,
+      "title_d" : "Diving Boards"
+   },
+   "leatherovernightbags" : {
+      "title_d" : "Copper Sculptures",
+      "episode" : 403,
+      "series_episode" : "31-13",
+      "title_b" : "Horse Exercisers",
+      "title_c" : "Air hockey Tables",
+      "title_a" : "Leather Overnight Bags"
+   },
+   "blastdoors" : {
+      "title_b" : "Lipstick",
+      "series_episode" : "22-04",
+      "title_c" : "Artificial Palm Trees",
+      "title_a" : "Blast Doors",
+      "title_d" : "Brass Plaques",
+      "episode" : 277
+   },
+   "sanders" : {
+      "series_episode" : "22-07",
+      "title_b" : "Solid Terrain Models",
+      "title_c" : "Stucco",
+      "title_a" : "Sanders",
+      "title_d" : "High-Speed Roll-up Doors",
+      "episode" : 280
+   },
+   "ledstagelights" : {
+      "title_b" : "Apple Cider",
+      "series_episode" : "25-02",
+      "title_c" : "Chemical Tank Trailers",
+      "title_a" : "LED Stage Lights",
+      "title_d" : "Ornate Stone Floors",
+      "episode" : 314
+   },
+   "sharpeningsteels" : {
+      "title_c" : "Ironing Board",
+      "title_a" : "Sharpening Steels",
+      "series_episode" : "26-06",
+      "title_b" : "Bladder Pumps",
+      "episode" : 331,
+      "title_d" : "Kayak Paddles"
+   },
+   "canvaswalltents" : {
+      "series_episode" : "19-03",
+      "title_b" : "Peace Pipes",
+      "title_c" : "Shredded Wheat Cereal",
+      "title_a" : "Canvas Wall Tents",
+      "title_d" : "Cannons",
+      "episode" : 237
+   },
+   "hospitallaundry" : {
+      "episode" : 291,
+      "title_d" : "Excavation",
+      "title_a" : "Hospital Laundry",
+      "title_c" : "Horse Replicas",
+      "series_episode" : "23-05",
+      "title_b" : "Brass Instrument Restoration"
+   },
+   "gingerbreadhouses" : {
+      "title_b" : "Livestock Trailers",
+      "series_episode" : "25-12",
+      "title_c" : "Bottom Rolling Hangar Doors",
+      "title_a" : "Gingerbread Houses",
+      "title_d" : "Toy Figurines",
+      "episode" : 324
+   },
+   "carbonfibre" : {
+      "episode" : 278,
+      "title_d" : "Hood Ornaments",
+      "title_a" : "Carbon Fibre",
+      "title_c" : "Railcar Movers",
+      "series_episode" : "22-05",
+      "title_b" : "Antique Frame Restoration"
+   },
+   "woodwindows" : {
+      "series_episode" : "24-07",
+      "title_b" : "Woven Cashmere Fabric",
+      "title_c" : "Plastic Recycling Machines",
+      "title_a" : "Wood Windows",
+      "title_d" : "Architectural Glass",
+      "episode" : 306
+   },
+   "steamerbaskets" : {
+      "title_b" : "Three-Wheel Scooters",
+      "series_episode" : "31-04",
+      "title_a" : "Steamer Baskets",
+      "title_c" : "Prefabricated Conservatories",
+      "title_d" : "Copper Cookware",
+      "episode" : 394
+   },
+   "cncassemblymachines" : {
+      "title_d" : "Miniature War Figures (part 2)",
+      "episode" : 339,
+      "series_episode" : "27-01",
+      "title_b" : "Lemon Tarts",
+      "title_c" : "Miniature War Figures (part 1)",
+      "title_a" : "CNC Assembly Machines"
+   },
+   "saunas" : {
+      "title_b" : "Wheelchair Lifts",
+      "series_episode" : "24-01",
+      "title_c" : "Dioramas (Part 1)",
+      "title_a" : "Saunas",
+      "title_d" : "Dioramas (Part 2)",
+      "episode" : 300
+   },
+   "paperumbrellas" : {
+      "title_d" : "Cremation Urns",
+      "episode" : 267,
+      "title_b" : "Coal",
+      "series_episode" : "21-07",
+      "title_c" : "Aircraft Seats",
+      "title_a" : "Paper Umbrellas"
+   },
+   "coconutshellcharcoal" : {
+      "title_c" : "Wet Downdraft Tables",
+      "title_a" : "Coconut Shell Charcoal",
+      "series_episode" : "27-13",
+      "title_b" : "Dial Indicators",
+      "episode" : 351,
+      "title_d" : "Bassoon Reeds"
+   },
+   "waxfigures" : {
+      "title_d" : "Pewter Tankards",
+      "episode" : 226,
+      "title_b" : "Awnings",
+      "series_episode" : "18-05",
+      "title_c" : "Sandwich Crackers",
+      "title_a" : "Wax Figures"
+   },
+   "petanqueballs" : {
+      "title_d" : "Basque Espadrilles",
+      "episode" : 377,
+      "title_b" : "Biologic Medicines",
+      "series_episode" : "29-13",
+      "title_c" : "Asphalt Pavers",
+      "title_a" : "Petanque Balls"
+   },
+   "nunofelt" : {
+      "series_episode" : "29-02",
+      "title_b" : "Drum Crushers",
+      "title_c" : "Kimchi",
+      "title_a" : "Nuno Felt",
+      "title_d" : "Parquet Floors",
+      "episode" : 366
+   },
+   "motorcyclesidecars" : {
+      "series_episode" : "22-10",
+      "title_b" : "Frozen French Toast",
+      "title_c" : "Refrigerator Compressors",
+      "title_a" : "Motorcycle Sidecars",
+      "title_d" : "Superchargers",
+      "episode" : 283
+   },
+   "woodenmatches" : {
+      "series_episode" : "27-06",
+      "title_b" : "Tillage Machines",
+      "title_a" : "Wooden Matches",
+      "title_c" : "Telescopic Gangways",
+      "title_d" : "Mabe Pearls",
+      "episode" : 344
+   },
+   "plasmagems" : {
+      "title_c" : "Piano Restoration (Part 1)",
+      "title_a" : "Plasma Gems",
+      "series_episode" : "24-10",
+      "title_b" : "Special Effects Snow",
+      "episode" : 309,
+      "title_d" : "Piano Restoration (Part 2)"
+   },
+   "storagesheds" : {
+      "title_d" : "Climbing Walls",
+      "episode" : 316,
+      "title_b" : "Industrial Fans",
+      "series_episode" : "25-04",
+      "title_c" : "Parchment Paper",
+      "title_a" : "Storage Sheds"
+   },
+   "decorativesombreros" : {
+      "title_a" : "Decorative Sombreros",
+      "title_c" : "Cap Guns",
+      "series_episode" : "17-01",
+      "title_b" : "Salad Dressings & Marinades",
+      "episode" : 209,
+      "title_d" : "Regenerative Medicine"
+   },
+   "pipecleaners" : {
+      "title_d" : "Telescopes",
+      "episode" : 227,
+      "series_episode" : "18-06",
+      "title_b" : "Blue Stilton Cheese",
+      "title_a" : "Pipe Cleaners",
+      "title_c" : "Smart Electric Meters"
+   },
+   "condoms" : {
+      "series_episode" : "28-01",
+      "title_b" : "Classic Car Gauges",
+      "title_a" : "Condoms",
+      "title_c" : "Chocolate Marble Truffle Cake",
+      "title_d" : "Ghillie Kettles",
+      "episode" : 352
+   },
+   "woodslatbaskets" : {
+      "title_b" : "Bells",
+      "series_episode" : "31-11",
+      "title_a" : "Wood Slat Baskets",
+      "title_c" : "Gyroscopic stabilizers (Part 1)",
+      "title_d" : "Gyroscopic Stabilizers (Part 2)",
+      "episode" : 401
+   },
+   "automaticslidingdoors" : {
+      "series_episode" : "24-05",
+      "title_b" : "Gin",
+      "title_a" : "Automatic Sliding Doors",
+      "title_c" : "Firearms Restoration (Part 1)",
+      "title_d" : "Firearms Restoration (Part 2)",
+      "episode" : 304
+   },
+   "spinningreels" : {
+      "title_c" : "3D Cups",
+      "title_a" : "Spinning Reels",
+      "title_b" : "Plasma Protein Therapies",
+      "series_episode" : "31-03",
+      "episode" : 393,
+      "title_d" : "Stainless Steel Beer Kegs"
+   },
+   "dinnerware" : {
+      "title_d" : "Fossils",
+      "episode" : 243,
+      "title_b" : "Air Brake Tanks",
+      "series_episode" : "19-09",
+      "title_c" : "Frosted Cereal",
+      "title_a" : "Dinnerware"
+   },
+   "beadwire" : {
+      "title_b" : "Mini Pepperoni",
+      "series_episode" : "26-02",
+      "title_a" : "Bead Wire",
+      "title_c" : "Irrigation Sprinklers",
+      "title_d" : "Leather Gloves",
+      "episode" : 327
+   },
+   "ceramicgrills" : {
+      "title_d" : "Hollow Wooden Surfboards",
+      "episode" : 335,
+      "series_episode" : "26-10",
+      "title_b" : "Pneumatic Punching Machines",
+      "title_c" : "Water Jet Fountains",
+      "title_a" : "Ceramic Grills"
+   },
+   "sawhorsestoolboxes" : {
+      "episode" : 279,
+      "title_d" : "School Buses (Part 2)",
+      "title_a" : "Sawhorses & Toolboxes",
+      "title_c" : "School Buses (Part 1)",
+      "series_episode" : "22-06",
+      "title_b" : "Sorbet Pops"
+   },
+   "castirontubs" : {
+      "episode" : 257,
+      "title_d" : "Memory Cards",
+      "title_c" : "Mine Truck Engine Rebuild",
+      "title_a" : "Cast Iron Tubs",
+      "series_episode" : "20-10",
+      "title_b" : "Hopi Kachina Dolls"
+   },
+   "cyclingshoes" : {
+      "title_d" : "Oil & Encaustic Paint",
+      "episode" : 258,
+      "series_episode" : "20-11",
+      "title_b" : "Yurts",
+      "title_a" : "Cycling Shoes",
+      "title_c" : "Marine Plywood"
+   },
+   "needlespins" : {
+      "title_a" : "Needles & Pins",
+      "title_c" : "Locomotives",
+      "series_episode" : "16-04",
+      "title_b" : "Architectural Mouldings",
+      "episode" : 199,
+      "title_d" : "Clothespins"
+   },
+   "bamboobicycles" : {
+      "episode" : 242,
+      "title_d" : "Manual Motorcycle Transmissions",
+      "title_a" : "Bamboo Bicycles",
+      "title_c" : "Breath Mints",
+      "series_episode" : "19-08",
+      "title_b" : "Chainsaw Art"
+   },
+   "ceramicfireplaces" : {
+      "series_episode" : "23-06",
+      "title_b" : "Synthetic Corks",
+      "title_a" : "Ceramic Fireplaces",
+      "title_c" : "Parking Garage Floor Slabs (Part 1)",
+      "title_d" : "Parking Garage Floor Slabs (Part 2)",
+      "episode" : 292
+   },
+   "tequila" : {
+      "series_episode" : "16-12",
+      "title_b" : "Waterbeds",
+      "title_c" : "Flip Flops",
+      "title_a" : "Tequila",
+      "title_d" : "Silver",
+      "episode" : 207
+   },
+   "laminatedwoodbeams" : {
+      "title_b" : "Sport Utility Vehicles",
+      "series_episode" : "17-12",
+      "title_a" : "Laminated Wood Beams",
+      "title_c" : "Veggie Burgers",
+      "title_d" : "Wood Boring Augers",
+      "episode" : 220
+   },
+   "woodtoys" : {
+      "title_c" : "Laboratory Furnaces",
+      "title_a" : "Wood Toys",
+      "series_episode" : "27-08",
+      "title_b" : "Retro Toasters",
+      "episode" : 346,
+      "title_d" : "Aerogel"
+   },
+   "patternedglasspanels" : {
+      "title_d" : "Stop-Frame Animation (Part 2)",
+      "episode" : 222,
+      "series_episode" : "18-01",
+      "title_b" : "Road Cases",
+      "title_a" : "Patterned Glass Panels",
+      "title_c" : "Stop-Frame Animation (Part 1)"
+   },
+   "woodenutensils" : {
+      "title_d" : "Electronic Impact Drills",
+      "episode" : 364,
+      "series_episode" : "28-13",
+      "title_b" : "Transport Refrigeration Units",
+      "title_c" : "Moccasins",
+      "title_a" : "Wooden Utensils"
+   },
+   "artistbrushes" : {
+      "title_c" : "Game Tables",
+      "title_a" : "Artist Brushes",
+      "title_b" : "DEF Tank Heaters",
+      "series_episode" : "29-07",
+      "episode" : 371,
+      "title_d" : "Art Glass Wall Sconces"
+   },
+   "prams" : {
+      "title_a" : "Prams",
+      "title_c" : "Wood Flutes",
+      "title_b" : "Factory-Built Homes",
+      "series_episode" : "20-08",
+      "episode" : 255,
+      "title_d" : "Bicycle Tires"
+   },
+   "anglegrinders" : {
+      "episode" : 354,
+      "title_d" : "Omnidirectional Speakers (Part 2)",
+      "title_c" : "Omnidirectional Speakers (Part 1)",
+      "title_a" : "Angle Grinders",
+      "series_episode" : "28-03",
+      "title_b" : "Berry Baskets"
+   },
+   "industrialcasters" : {
+      "episode" : 334,
+      "title_d" : "Racing Catamarans",
+      "title_a" : "Industrial Casters",
+      "title_c" : "Terahertz Spectrometers",
+      "series_episode" : "26-09",
+      "title_b" : "Wedding Cake"
+   },
+   "motorcyclegoggles" : {
+      "episode" : 415,
+      "title_d" : "Pewter Shaving Sets",
+      "title_a" : "Motorcycle Goggles",
+      "title_c" : "Vacuum Excavators",
+      "series_episode" : "32-12",
+      "title_b" : "Handbuilt Jukeboxes"
+   },
+   "mountainbikesuspensions" : {
+      "title_b" : "Surgical Sutures",
+      "series_episode" : "25-10",
+      "title_a" : "Mountain Bike Suspensions",
+      "title_c" : "Grain Dryers",
+      "title_d" : "Frying Pans",
+      "episode" : 322
+   },
+   "gardenforks" : {
+      "title_c" : "Paint Chip Cards",
+      "title_a" : "Garden Forks",
+      "title_b" : "English Toffee",
+      "series_episode" : "19-01",
+      "episode" : 235,
+      "title_d" : "Bundt Pans"
+   },
+   "rawhidelampshades" : {
+      "episode" : 288,
+      "title_d" : "MRI Scanners (Part 2)",
+      "title_c" : "MRI Scanners (Part 1)",
+      "title_a" : "Rawhide Lampshades",
+      "series_episode" : "23-02",
+      "title_b" : "Chocolate Chip Cookies"
+   },
+   "cartridgeblades" : {
+      "series_episode" : "28-04",
+      "title_b" : "Chocolate Banana Loaves",
+      "title_c" : "Vending Machines",
+      "title_a" : "Cartridge Blades",
+      "title_d" : "Dive Computers",
+      "episode" : 355
+   },
+   "channelsigns" : {
+      "title_b" : "Wetsuits",
+      "series_episode" : "26-13",
+      "title_c" : "Aluminum Aircraft (part 1)",
+      "title_a" : "Channel Signs",
+      "title_d" : "Aluminum Aircraft (part 2)",
+      "episode" : 338
+   },
+   "woodwatches" : {
+      "title_b" : "Steel Bicycles",
+      "series_episode" : "29-03",
+      "title_c" : "Raw Pet Food",
+      "title_a" : "Wood Watches",
+      "title_d" : "Replica Police Lanterns",
+      "episode" : 367
+   },
+   "tea" : {
+      "title_d" : "Alloy Wheels",
+      "episode" : 265,
+      "series_episode" : "21-05",
+      "title_b" : "Roof Finials",
+      "title_a" : "Tea",
+      "title_c" : "Artificial Flowers"
+   },
+   "lace" : {
+      "title_c" : "Orchids",
+      "title_a" : "Lace",
+      "series_episode" : "21-03",
+      "title_b" : "Antique Frame Replicas",
+      "episode" : 263,
+      "title_d" : "Unicycle Wheel Hubs"
+   },
+   "oilpressuresensors" : {
+      "series_episode" : "23-07",
+      "title_b" : "Large Format Printing",
+      "title_a" : "Oil Pressure Sensors",
+      "title_c" : "Heavy Equipment Simulators",
+      "title_d" : "Head & Neck Restraints",
+      "episode" : 293
+   },
+   "witnesssamples" : {
+      "title_a" : "Witness Samples",
+      "title_c" : "Beehives",
+      "series_episode" : "30-04",
+      "title_b" : "Pressure Washers",
+      "episode" : 381,
+      "title_d" : "Cast Iron Cookers"
+   },
+   "fishdecoys" : {
+      "series_episode" : "19-07",
+      "title_b" : "Film Digitization",
+      "title_c" : "Cylinder Stoves",
+      "title_a" : "Fish Decoys",
+      "title_d" : "Concrete Light Poles",
+      "episode" : 241
+   },
+   "horsebits" : {
+      "title_d" : "Electric Scooters",
+      "episode" : 249,
+      "title_b" : "Oat Cereal",
+      "series_episode" : "20-02",
+      "title_c" : "Turquoise Jewellery",
+      "title_a" : "Horse Bits"
+   },
+   "stileandraildoors" : {
+      "title_b" : "Steam Cleaners",
+      "series_episode" : "26-08",
+      "title_c" : "Hand-Held Pizzas",
+      "title_a" : "Stile and Rail Doors",
+      "title_d" : "Power Brushes",
+      "episode" : 333
+   },
+   "externalharddrives" : {
+      "title_a" : "External Hard Drives",
+      "title_c" : "Thai Rice Boxes",
+      "title_b" : "Frozen Shrimp",
+      "series_episode" : "21-04",
+      "episode" : 264,
+      "title_d" : "Paper Towels"
+   },
+   "tabletennistables" : {
+      "episode" : 407,
+      "title_d" : "Light Microscopes (Part 2)",
+      "title_a" : "Table Tennis Tables",
+      "title_c" : "Light Microscopes (Part 1)",
+      "series_episode" : "32-04",
+      "title_b" : "Plastic Model Kits"
+   },
+   "chinesestylefurniture" : {
+      "episode" : 348,
+      "title_d" : "Cappers",
+      "title_c" : "Thai Fish Sauce",
+      "title_a" : "Chinese Style Furniture",
+      "series_episode" : "27-10",
+      "title_b" : "Electrical Switches"
+   },
+   "turfgrass" : {
+      "episode" : 239,
+      "title_d" : "Bowling Pins",
+      "title_a" : "Turf Grass",
+      "title_c" : "Wood Chippers",
+      "series_episode" : "19-05",
+      "title_b" : "Beef Jerky"
+   },
+   "speedskates" : {
+      "series_episode" : "17-07",
+      "title_b" : "Synthetic Rubber",
+      "title_c" : "Cocoa Beans",
+      "title_a" : "Speed Skates",
+      "title_d" : "Bulk Chocolate",
+      "episode" : 215
+   }
+}
