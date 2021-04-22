@@ -48,16 +48,32 @@ sub process_programme {
     my ($t, $prog) = @_;
     my $orgtitle = $prog->first_child('title[@lang="en"]');
     my $title = $prog->first_child('title[@lang="pl"]');
+    my $found = 0;
     # scan mapping only if generic pattern matches
     if ($title->text =~ /Jak to jest zrobione/) {
         for my $key (@mappingkeys) {
-            my $title_a = $mapping->{$key}->{'title_a'};
+            my $epdata = $mapping->{$key};
+            my $title_a = $epdata->{'title_a'};
             if ($orgtitle->text =~ /:\s*$title_a,/i) {
                 # modify episode title and number
-                my $epdata = $mapping->{$key};
                 $title->set_text("Jak to jest zrobione? - odc. $epdata->{'episode'}");
                 $prog->first_child('episode-num')->set_text($epdata->{'episode'});
+                $found = 1;
                 last;
+            }
+        }
+        # try again with series-ep number
+        if (!$found && $title->text =~ /Jak to jest zrobione\?\s*(\d+)\s*-\s*odc\.\s*(\d+)/) {
+            my ($season, $sepnum) = ($1, $2);
+            for my $key (@mappingkeys) {
+                my $epdata = $mapping->{$key};
+                if ($epdata->{'series_episode'} =~ /^$season-0*$sepnum$/) {
+                    # modify episode title and number
+                    $title->set_text("Jak to jest zrobione? - odc. $epdata->{'episode'}");
+                    $prog->first_child('episode-num')->set_text($epdata->{'episode'});
+                    $found = 1;
+                    last;
+                }
             }
         }
     }
