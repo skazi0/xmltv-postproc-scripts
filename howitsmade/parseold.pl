@@ -21,7 +21,7 @@ if (open(I, '<episodes.json')) {
     %data = %{JSON->new->decode($json)};
 }
 
-open(I, '<season16.md');
+open(I, '<season15.md');
 my @titles;
 my $epnum;
 my $sepnum;
