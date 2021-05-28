@@ -65,6 +65,8 @@ sub process_programme {
         # try again with series-ep number
         if (!$found && $title->text =~ /Jak to jest zrobione\?\s*(\d+)\s*-\s*odc\.\s*(\d+)/) {
             my ($season, $sepnum) = ($1, $2);
+            # fix incorrect season number from teleman
+            $season = 29 if ($season == 15);
             for my $key (@mappingkeys) {
                 my $epdata = $mapping->{$key};
                 if ($epdata->{'series_episode'} =~ /^$season-0*$sepnum$/) {
