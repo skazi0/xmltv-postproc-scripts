@@ -59,7 +59,7 @@ sub process_programme {
     # scan mapping only if generic pattern matches
     if ($orgtitle and $orgtitle->text =~ /Peppa Pig/ or
         $title and $title->text =~ /Świnka Peppa/) {
-        my $hash = hashtitle($orgtitle->text);
+        my $hash = hashtitle($orgtitle ? $orgtitle->text : '<missing orgtitle>');
         for my $key (@mappingkeys) {
             if ($hash =~ $key) {
                 # modify polish title
