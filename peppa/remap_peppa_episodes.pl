@@ -66,7 +66,8 @@ sub process_programme {
                 my $epdata = $mapping->{$key};
                 my $ser = $epdata->{'series'} != '1' ? " $epdata->{'series'}" : "";
                 $title->set_text("Świnka Peppa$ser: $epdata->{'title'} - odc. $epdata->{'episode'}");
-                $prog->first_child('episode-num')->set_text($epdata->{'episode'});
+                my $en = $prog->first_child('episode-num');
+                $en->set_text($epdata->{'episode'}) if ($en);
                 last;
             }
         }
