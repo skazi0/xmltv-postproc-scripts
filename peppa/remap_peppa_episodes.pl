@@ -59,6 +59,12 @@ sub process_programme {
     # scan mapping only if generic pattern matches
     if ($orgtitle and $orgtitle->text =~ /Peppa Pig/ or
         $title and $title->text =~ /Świnka Peppa/) {
+        # hardcode fixes
+        my $ntitle = $title->text;
+        $ntitle =~ s/Peppa 8:/Peppa 6:/;
+        $ntitle =~ s/Peppa 9:/Peppa 7:/;
+        $title->set_text($ntitle);
+        # remap
         my $hash = hashtitle($orgtitle ? $orgtitle->text : '<missing orgtitle>');
         for my $key (@mappingkeys) {
             if ($hash =~ $key) {
